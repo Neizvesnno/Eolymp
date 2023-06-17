@@ -26,6 +26,6 @@ Compilers:
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
 | 7326 | [Спальні вагони](https://www.e-olymp.com/uk/problems/7326)                                             | [7xxx/7326.cpp](7xxx/7326.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
-| 8001 | [Lake with lilies](https://www.e-olymp.com/en/problems/8001)                                           | [8xxx/8001](8xxx/8001)                                 |
+| 8172 | [Многогранники](https://www.e-olymp.com/uk/problems/8172)                                              | [8xxx/8172.py](8xxx/8172.py)                           |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
 | 9001 | [Lake with lilies](https://www.e-olymp.com/en/problems/9001)                                           | [9xxx/9001](9xxx/9001)                                 |
