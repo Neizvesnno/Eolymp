@@ -12,7 +12,7 @@ Compilers:
 | 0002 | [Цифри](https://www.e-olymp.com/uk/problems/2)                                                         | [0xxx/0002.py](0xxx/0002.py)                           |
 | 0003 | [Сірникова модель](https://www.e-olymp.com/uk/problems/3)                                              | [0xxx/0003.py](0xxx/0003.py)                           |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
-| 1000 | [Задача a + b](https://www.e-olymp.com/en/problems/1000)                                               | [1xxx/1000](1xxx/1000.py)                              |
+| 1000 | [Задача a + b](https://www.e-olymp.com/en/problems/1000)                                               | [1xxx/1000.cpp](1xxx/1000.cpp)                         |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
 | 2001 | [Lake with lilies](https://www.e-olymp.com/en/problems/2001)                                           | [2xxx/2001](2xxx/2001)                                 |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
