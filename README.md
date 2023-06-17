@@ -8,7 +8,7 @@ Compilers:
 | ID   | Problem statement                                                                                      | Solution                                               |
 |------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 |      | 0000-0999                                                                                              | [0xxx/](0xxx/)                                         |
-| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                               | [0xxx/0001.cpp](0xxx/0001)                             |
+| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                               | [0xxx/0001.cpp](0xxx/0001.cpp)                             |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1001 | [Hello World!](https://www.e-olymp.com/en/problems/1001)                                               | [1xxx/1001](1xxx/1001)                                 |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
