@@ -9,8 +9,8 @@ Compilers:
 |------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 |      | 0000-0999                                                                                              | [0xxx/](0xxx/)                                         |
 | 0001 | [Проста задача](https://www.e-olymp.com/uk/problems/1)                                                 | [0xxx/0001.cpp](0xxx/0001.cpp)                         |
-| 0002 | [Цифри](https://www.e-olymp.com/uk/problems/2)                                                         | [0xxx/0002.cpp](0xxx/0002.cpp)                         |
-| 0003 | [Сірникова модель](https://www.e-olymp.com/uk/problems/3)                                              | [0xxx/0003.cpp](0xxx/0003.cpp)                         |
+| 0002 | [Цифри](https://www.e-olymp.com/uk/problems/2)                                                         | [0xxx/0002.py](0xxx/0002.py)                           |
+| 0003 | [Сірникова модель](https://www.e-olymp.com/uk/problems/3)                                              | [0xxx/0003.py](0xxx/0003.py)                           |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1001 | [Hello World!](https://www.e-olymp.com/en/problems/1001)                                               | [1xxx/1001](1xxx/1001)                                 |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
