@@ -20,7 +20,7 @@ Compilers:
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
 | 4101 | [Трьохзначні числа](https://www.e-olymp.com/uk/problems/4101)                                          | [4xxx/4101.py](4xxx/4101.py)                           |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
-| 5001 | [Lake with lilies](https://www.e-olymp.com/en/problems/5001)                                           | [5xxx/5001](5xxx/5001)                                 |
+| 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
 | 6001 | [Lake with lilies](https://www.e-olymp.com/en/problems/6001)                                           | [6xxx/6001](6xxx/6001)                                 |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
