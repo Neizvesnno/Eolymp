@@ -24,7 +24,7 @@ Compilers:
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
 | 6022 | [Смерть рыцаря героя](https://www.e-olymp.com/uk/problems/6022)                                        | [6xxx/6022.py](6xxx/6022.py)                           |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
-| 7001 | [Lake with lilies](https://www.e-olymp.com/en/problems/7001)                                           | [7xxx/7001](7xxx/7001)                                 |
+| 7326 | [Спальні вагони](https://www.e-olymp.com/uk/problems/7326)                                             | [7xxx/7326.cpp](7xxx/7326.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
 | 8001 | [Lake with lilies](https://www.e-olymp.com/en/problems/8001)                                           | [8xxx/8001](8xxx/8001)                                 |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
