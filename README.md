@@ -28,4 +28,4 @@ Compilers:
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
 | 8172 | [Многогранники](https://www.e-olymp.com/uk/problems/8172)                                              | [8xxx/8172.py](8xxx/8172.py)                           |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
-| 9000 | [Lake with lilies](https://www.e-olymp.com/uk/problems/9000)                                           | [9xxx/9000.py](9xxx/9000.py)                           |
+| 9000 | [Впорядкування](https://www.e-olymp.com/uk/problems/9000)                                              | [9xxx/9000.py](9xxx/9000.py)                           |
