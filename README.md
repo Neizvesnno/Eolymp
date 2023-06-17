@@ -18,7 +18,7 @@ Compilers:
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
 | 3002 | [Турнір](https://www.e-olymp.com/uk/problems/3002)                                                     | [3xxx/3002.py](3xxx/3002.py)                           |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
-| 4001 | [Lake with lilies](https://www.e-olymp.com/en/problems/4001)                                           | [4xxx/4001](4xxx/4001)                                 |
+| 4101 | [Трьохзначні числа](https://www.e-olymp.com/uk/problems/4101)                                          | [4xxx/4101.py](4xxx/4101.py)                           |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5001 | [Lake with lilies](https://www.e-olymp.com/en/problems/5001)                                           | [5xxx/5001](5xxx/5001)                                 |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
