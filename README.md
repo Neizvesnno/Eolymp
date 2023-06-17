@@ -22,7 +22,7 @@ Compilers:
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
-| 6001 | [Lake with lilies](https://www.e-olymp.com/en/problems/6001)                                           | [6xxx/6001](6xxx/6001)                                 |
+| 6022 | [Смерть рыцаря героя](https://www.e-olymp.com/uk/problems/6022)                                        | [6xxx/6022.py](6xxx/6022.py)                           |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
 | 7001 | [Lake with lilies](https://www.e-olymp.com/en/problems/7001)                                           | [7xxx/7001](7xxx/7001)                                 |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
