@@ -8,7 +8,7 @@ Compilers:
 | ID   | Problem statement                                                                                      | Solution                                               |
 |------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
 |      | 0000-0999                                                                                              | [0xxx/](0xxx/)                                         |
-| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                               | [0xxx/0001/main.py](0xxx/0001/main.py)                 |
+| 0001 | [Simple problem?](https://www.e-olymp.com/en/problems/1)                                               | [0xxx/0001/main.py](0xxx/0001)                         |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1024 | [Hello World!](https://www.e-olymp.com/en/problems/1024)                                               | [1xxx/1024/main.py](1xxx/1024/main.py)                 |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
