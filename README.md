@@ -11,6 +11,30 @@ Compilers:
 | 0001 | [Проста задача](https://www.e-olymp.com/uk/problems/1)                                                 | [0xxx/0001.cpp](0xxx/0001.cpp)                         |
 | 0002 | [Цифри](https://www.e-olymp.com/uk/problems/2)                                                         | [0xxx/0002.py](0xxx/0002.py)                           |
 | 0003 | [Сірникова модель](https://www.e-olymp.com/uk/problems/3)                                              | [0xxx/0003.py](0xxx/0003.py)                           |
+| 0004 | [Два кола](https://www.e-olymp.com/uk/problems/4)                                                      | [0xxx/0004.py](0xxx/0004.py)                           |
+| 0007 | [Римські числа](https://www.e-olymp.com/uk/problems/7)                                                 | [0xxx/0007.py](0xxx/0007.py)                           |
+| 0008 | [Сірники](https://www.e-olymp.com/uk/problems/8)                                                       | [0xxx/0008.cpp](0xxx/0008.cpp)                         |
+| 0009 | [N-значні числа](https://www.e-olymp.com/uk/problems/9)                                                | [0xxx/0009.py](0xxx/0009.py)                           |
+| 0010 | [Садівник](https://www.e-olymp.com/uk/problems/10)                                                     | [0xxx/0010.py](0xxx/0010.py)                           |
+| 0019 | [Степінь симетрії](https://www.e-olymp.com/uk/problems/19)                                             | [0xxx/0019.py](0xxx/0019.py)                           |
+| 0023 | [Новорічна ялинка](https://www.e-olymp.com/uk/problems/23)                                             | [0xxx/0023.py](0xxx/0023.py)                           |
+| 0025 | [Paint3D](https://www.e-olymp.com/uk/problems/25)                                                      | [0xxx/0025.cpp](0xxx/0025.cpp)                         |
+| 0052 | [Сир для Анфіси](https://www.e-olymp.com/uk/problems/52)                                               | [0xxx/0052.py](0xxx/0052.py)                           |
+| 0062 | [Факторіал](https://www.e-olymp.com/uk/problems/62)                                                    | [0xxx/0062.cpp](0xxx/0062.cpp)                         |
+| 0075 | [Пірати і монети](https://www.e-olymp.com/uk/problems/75)                                              | [0xxx/0075.py](0xxx/0075.py)                           |
+| 0076 | [Нова шафа](https://www.e-olymp.com/uk/problems/76)                                                    | [0xxx/0076.py](0xxx/0076.py)                           |
+| 0087 | [Робот](https://www.e-olymp.com/uk/problems/87)                                                        | [0xxx/0087.py](0xxx/0087.py)                           |
+| 0107 | [Компакт-диски](https://www.e-olymp.com/uk/problems/107)                                               | [0xxx/0107.py](0xxx/0107.py)                           |
+| 0108 | [Середнє з чисел](https://www.e-olymp.com/uk/problems/108)                                             | [0xxx/0108.py](0xxx/0108.py)                           |
+| 0109 | [Нумерація](https://www.e-olymp.com/uk/problems/109)                                                   | [0xxx/0109.py](0xxx/0109.py)                           |
+| 0125 | [Олімпіада](https://www.e-olymp.com/uk/problems/125)                                                   | [0xxx/0125.py](0xxx/0125.py)                           |
+| 0127 | [Бакси в банці](https://www.e-olymp.com/uk/problems/127)                                               | [0xxx/0127.cpp](0xxx/0127.cpp)                         |
+| 0128 | [Щасливі квитки](https://www.e-olymp.com/uk/problems/128)                                              | [0xxx/0128.py](0xxx/0128.py)                           |
+| 0133 | [Квадрат і точки](https://www.e-olymp.com/uk/problems/133)                                             | [0xxx/0133.py](0xxx/0133.py)                           |
+| 0138 | [Банкомат](https://www.e-olymp.com/uk/problems/138)                                                    | [0xxx/0138.py](0xxx/0138.py)                           |
+| 0248 | [Юний садівник](https://www.e-olymp.com/uk/problems/248)                                               | [0xxx/0248.py](0xxx/0248.py)                           |
+| 0 | [](https://www.e-olymp.com/uk/problems/)                                              | [0xxx/0.py](0xxx/0.py)                           |
+| 0 | [](https://www.e-olymp.com/uk/problems/)                                              | [0xxx/0.cpp](0xxx/0.cpp)                         |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1000 | [Задача a + b](https://www.e-olymp.com/uk/problems/1000)                                               | [1xxx/1000.cpp](1xxx/1000.cpp)                         |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
