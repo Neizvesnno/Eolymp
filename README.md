@@ -142,10 +142,19 @@ Compilers:
 | 4737 | [Видалення зайвих пропусків](https://www.e-olymp.com/uk/problems/4737)                                 | [4xxx/4737.cpp](4xxx/4737.cpp)                         |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
-| 5 | [](https://www.e-olymp.com/uk/problems/5)                                                   | [5xxx/5.py](5xxx/5.py)                           |
-| 5 | [](https://www.e-olymp.com/uk/problems/5)                                                   | [5xxx/5.cpp](5xxx/5.cpp)                         |
+| 5175 | [Остання цифра](https://www.e-olymp.com/uk/problems/5175)                                              | [5xxx/5175.cpp](5xxx/5175.cpp)                         |
+| 5325 | [Розрахуйтесь за порядком](https://www.e-olymp.com/uk/problems/5325)                                   | [5xxx/5325.py](5xxx/5325.py)                           |
+| 5628 | [Трицифрове число](https://www.e-olymp.com/uk/problems/5628)                                           | [5xxx/5628.py](5xxx/5628.py)                           |
+| 5713 | [Вiтряна погода](https://www.e-olymp.com/uk/problems/5713)                                             | [5xxx/5713.py](5xxx/5713.py)                           |
+| 5716 | [Карткові будиночки](https://www.e-olymp.com/uk/problems/5716)                                         | [5xxx/5716.cpp](5xxx/5716.cpp)                         |
+| 5717 | [Вітряна погода 2](https://www.e-olymp.com/uk/problems/5717)                                           | [5xxx/5717.py](5xxx/5717.py)                           |
+| 5723 | [Вітряна погода 3](https://www.e-olymp.com/uk/problems/5723)                                           | [5xxx/5723.py](5xxx/5723.py)                           |
+| 5728 | [Вітряна погода 4](https://www.e-olymp.com/uk/problems/5728)                                           | [5xxx/5728.py](5xxx/5728.py)                           |
+| 5765 | [Канарейки](https://www.e-olymp.com/uk/problems/5765)                                                  | [5xxx/5765.py](5xxx/5765.py)                           |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
 | 6022 | [Смерть рыцаря героя](https://www.e-olymp.com/uk/problems/6022)                                        | [6xxx/6022.py](6xxx/6022.py)                           |
+| 6 | [](https://www.e-olymp.com/uk/problems/6)                                                   | [6xxx/6.py](6xxx/6.py)                           |
+| 6 | [](https://www.e-olymp.com/uk/problems/6)                                                   | [6xxx/6.cpp](6xxx/6.cpp)                         |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
 | 7326 | [Спальні вагони](https://www.e-olymp.com/uk/problems/7326)                                             | [7xxx/7326.cpp](7xxx/7326.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
