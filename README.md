@@ -79,10 +79,33 @@ Compilers:
 | 0963 | [Перестановка слів](https://www.e-olymp.com/uk/problems/963)                                           | [0xxx/0963.py](0xxx/0963.py)                           |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1000 | [Задача a + b](https://www.e-olymp.com/uk/problems/1000)                                               | [1xxx/1000.cpp](1xxx/1000.cpp)                         |
-| 1 | [](https://www.e-olymp.com/uk/problems/)                              | [1xxx/1.cpp](1xxx/1.cpp)                         |
-| 1 | [](https://www.e-olymp.com/uk/problems/)                              | [1xxx/1.py](1xxx/1.py)                           |
+| 1142 | [Ділення на нуль чи...](https://www.e-olymp.com/uk/problems/1142)                                      | [1xxx/1142.py](1xxx/1142.py)                           |
+| 1205 | [Сила криптографії](https://www.e-olymp.com/uk/problems/1205)                                          | [1xxx/1205.py](1xxx/1205.py)                           |
+| 1286 | [Шкільний буфет](https://www.e-olymp.com/uk/problems/1286)                                             | [1xxx/1286.py](1xxx/1286.py)                           |
+| 1287 | [Змагання з тенісу](https://www.e-olymp.com/uk/problems/1287)                                          | [1xxx/1287.py](1xxx/1287.py)                           |
+| 1288 | [n-значні числа](https://www.e-olymp.com/uk/problems/1288)                                             | [1xxx/1288.py](1xxx/1288.py)                           |
+| 1289 | [Ланч](https://www.e-olymp.com/uk/problems/1289)                                                       | [1xxx/1289.py](1xxx/1289.py)                           |
+| 1290 | [Номерний знак](https://www.e-olymp.com/uk/problems/1290)                                              | [1xxx/1290.py](1xxx/1290.py)                           |
+| 1351 | [Найбільша цифра](https://www.e-olymp.com/uk/problems/1351)                                            | [1xxx/1351.py](1xxx/1351.py)                           |
+| 1427 | [Калькулятор](https://www.e-olymp.com/uk/problems/1427)                                                | [1xxx/1427.cpp](1xxx/1427.cpp)                         |
+| 1452 | [Кролики](https://www.e-olymp.com/uk/problems/1452)                                                    | [1xxx/1452.py](1xxx/1452.py)                           |
+| 1601 | [НСД двох чисел](https://www.e-olymp.com/uk/problems/1601)                                             | [1xxx/1601.py](1xxx/1601.py)                           |
+| 1602 | [НСК двох натуральних чисел](https://www.e-olymp.com/uk/problems/1602)                                 | [1xxx/1602.py](1xxx/1602.py)                           |
+| 1603 | [Сума цифр числа](https://www.e-olymp.com/uk/problems/1603)                                            | [1xxx/1603.py](1xxx/1603.py)                           |
+| 1604 | [Добуток парних цифр числа](https://www.e-olymp.com/uk/problems/1604)                                  | [1xxx/1604.py](1xxx/1604.py)                           |
+| 1605 | [Друга цифра числа](https://www.e-olymp.com/uk/problems/1605)                                          | [1xxx/1605.py](1xxx/1605.py)                           |
+| 1606 | [Сума першої та останньої цифр числа](https://www.e-olymp.com/uk/problems/1606)                        | [1xxx/1606.py](1xxx/1606.py)                           |
+| 1607 | [Число у зворотньому порядку](https://www.e-olymp.com/uk/problems/1607)                                | [1xxx/1607.py](1xxx/1607.py)                           |
+| 1608 | [Число-паліндром](https://www.e-olymp.com/uk/problems/1608)                                            | [1xxx/1608.py](1xxx/1608.py)                           |
+| 1609 | [Кількість даних цифр в числі](https://www.e-olymp.com/uk/problems/1609)                               | [1xxx/1609.cpp](1xxx/1609.cpp)                         |
+| 1610 | [Зайці в клітках](https://www.e-olymp.com/uk/problems/1610)                                            | [1xxx/1610.py](1xxx/1610.py)                           |
+| 1611 | [Конвертування](https://www.e-olymp.com/uk/problems/1611)                                              | [1xxx/1611.py](1xxx/1611.py)                           |
+| 1623 | [Парні та непарні числа](https://www.e-olymp.com/uk/problems/1623)                                     | [1xxx/1623.py](1xxx/1623.py)                           |
+| 1658 | [Факториал](https://www.e-olymp.com/uk/problems/1658)                                                  | [1xxx/1658.py](1xxx/1658.py)                           |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
 | 2043 | [Квартал](https://www.e-olymp.com/uk/problems/2043)                                                    | [2xxx/2043.py](2xxx/2043.py)                           |
+| 2 | [](https://www.e-olymp.com/uk/problems/2)                                       | [2xxx/2.py](2xxx/2.py)                           |
+| 2 | [](https://www.e-olymp.com/uk/problems/2)                                         | [2xxx/2.cpp](2xxx/2.cpp)                       |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
 | 3002 | [Турнір](https://www.e-olymp.com/uk/problems/3002)                                                     | [3xxx/3002.py](3xxx/3002.py)                           |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
