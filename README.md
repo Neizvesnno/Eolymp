@@ -79,6 +79,8 @@ Compilers:
 | 0963 | [Перестановка слів](https://www.e-olymp.com/uk/problems/963)                                           | [0xxx/0963.py](0xxx/0963.py)                           |
 |      | 1000-1999                                                                                              | [1xxx/](1xxx/)                                         |
 | 1000 | [Задача a + b](https://www.e-olymp.com/uk/problems/1000)                                               | [1xxx/1000.cpp](1xxx/1000.cpp)                         |
+| 1 | [](https://www.e-olymp.com/uk/problems/)                              | [1xxx/1.cpp](1xxx/1.cpp)                         |
+| 1 | [](https://www.e-olymp.com/uk/problems/)                              | [1xxx/1.py](1xxx/1.py)                           |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
 | 2043 | [Квартал](https://www.e-olymp.com/uk/problems/2043)                                                    | [2xxx/2043.py](2xxx/2043.py)                           |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
