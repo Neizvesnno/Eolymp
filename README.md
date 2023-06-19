@@ -153,10 +153,16 @@ Compilers:
 | 5765 | [Канарейки](https://www.e-olymp.com/uk/problems/5765)                                                  | [5xxx/5765.py](5xxx/5765.py)                           |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
 | 6022 | [Смерть рыцаря героя](https://www.e-olymp.com/uk/problems/6022)                                        | [6xxx/6022.py](6xxx/6022.py)                           |
-| 6 | [](https://www.e-olymp.com/uk/problems/6)                                                   | [6xxx/6.py](6xxx/6.py)                           |
-| 6 | [](https://www.e-olymp.com/uk/problems/6)                                                   | [6xxx/6.cpp](6xxx/6.cpp)                         |
+| 6253 | [Репликация вируса](https://www.e-olymp.com/uk/problems/6253)                                          | [6xxx/6253.cpp](6xxx/6253.cpp)                         |
+| 6273 | [Квадрат з квадратів](https://www.e-olymp.com/uk/problems/6273)                                        | [6xxx/6273.py](6xxx/6273.py)                           |
+| 6274 | [Поділ скарбу](https://www.e-olymp.com/uk/problems/6274)                                               | [6xxx/6274.py](6xxx/6274.py)                           |
+| 6277 | [Покупка води](https://www.e-olymp.com/uk/problems/6277)                                               | [6xxx/6277.py](6xxx/6277.py)                           |
+| 6827 | [Aaah!](https://www.e-olymp.com/uk/problems/6827)                                                      | [6xxx/6827.cpp](6xxx/6827.cpp)                         |
+| 6941 | [Сумма НСД](https://www.e-olymp.com/uk/problems/6941)                                                  | [6xxx/6941.cpp](6xxx/6941.cpp)                         |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
 | 7326 | [Спальні вагони](https://www.e-olymp.com/uk/problems/7326)                                             | [7xxx/7326.cpp](7xxx/7326.cpp)                         |
+| 7 | [](https://www.e-olymp.com/uk/problems/7)                                                   | [7xxx/7.py](7xxx/7.py)                           |
+| 7 | [](https://www.e-olymp.com/uk/problems/7)                                                   | [7xxx/7.cpp](7xxx/7.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
 | 8172 | [Многогранники](https://www.e-olymp.com/uk/problems/8172)                                              | [8xxx/8172.py](8xxx/8172.py)                           |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
