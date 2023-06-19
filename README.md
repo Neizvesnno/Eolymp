@@ -131,10 +131,19 @@ Compilers:
 | 3867 | [Лінивий Мишко](https://www.e-olymp.com/uk/problems/3867)                                              | [3xxx/3867.py](3xxx/3867.py)                           |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
 | 4101 | [Трьохзначні числа](https://www.e-olymp.com/uk/problems/4101)                                          | [4xxx/4101.py](4xxx/4101.py)                           |
-| 4 | [](https://www.e-olymp.com/uk/problems/4)                                                   | [4xxx/4.py](4xxx/4.py)                           |
-| 4 | [](https://www.e-olymp.com/uk/problems/4)                                                   | [4xxx/4.cpp](4xxx/4.cpp)                         |
+| 4716 | [Поділ яблук - 1](https://www.e-olymp.com/uk/problems/4716)                                            | [4xxx/4716.py](4xxx/4716.py)                           |
+| 4717 | [Поділ яблук - 2](https://www.e-olymp.com/uk/problems/4717)                                            | [4xxx/4717.py](4xxx/4717.py)                           |
+| 4718 | [Привіт, Гаррі!](https://www.e-olymp.com/uk/problems/4718)                                             | [4xxx/4718.py](4xxx/4718.py)                           |
+| 4719 | [Тура](https://www.e-olymp.com/uk/problems/4719)                                                       | [4xxx/4719.py](4xxx/4719.py)                           |
+| 4721 | [Відмінник Іванко](https://www.e-olymp.com/uk/problems/4721)                                           | [4xxx/4721.py](4xxx/4721.py)                           |
+| 4722 | [Квадрат числа](https://www.e-olymp.com/uk/problems/4722)                                              | [4xxx/4722.py](4xxx/4722.py)                           |
+| 4724 | [Робимо зрізи](https://www.e-olymp.com/uk/problems/4724)                                               | [4xxx/4724.py](4xxx/4724.py)                           |
+| 4734 | [Чи ділиться на 3, 6 і 9?](https://www.e-olymp.com/uk/problems/4734)                                   | [4xxx/4734.py](4xxx/4734.py)                           |
+| 4737 | [Видалення зайвих пропусків](https://www.e-olymp.com/uk/problems/4737)                                 | [4xxx/4737.cpp](4xxx/4737.cpp)                         |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
+| 5 | [](https://www.e-olymp.com/uk/problems/5)                                                   | [5xxx/5.py](5xxx/5.py)                           |
+| 5 | [](https://www.e-olymp.com/uk/problems/5)                                                   | [5xxx/5.cpp](5xxx/5.cpp)                         |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
 | 6022 | [Смерть рыцаря героя](https://www.e-olymp.com/uk/problems/6022)                                        | [6xxx/6022.py](6xxx/6022.py)                           |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
