@@ -161,9 +161,21 @@ Compilers:
 | 6941 | [Сумма НСД](https://www.e-olymp.com/uk/problems/6941)                                                  | [6xxx/6941.cpp](6xxx/6941.cpp)                         |
 |      | 7000-7999                                                                                              | [7xxx/](7xxx/)                                         |
 | 7326 | [Спальні вагони](https://www.e-olymp.com/uk/problems/7326)                                             | [7xxx/7326.cpp](7xxx/7326.cpp)                         |
-| 7 | [](https://www.e-olymp.com/uk/problems/7)                                                   | [7xxx/7.py](7xxx/7.py)                           |
-| 7 | [](https://www.e-olymp.com/uk/problems/7)                                                   | [7xxx/7.cpp](7xxx/7.cpp)                         |
+| 7340 | [Поле-чудес](https://www.e-olymp.com/uk/problems/7340)                                                 | [7xxx/7340.py](7xxx/7340.py)                           |
+| 7375 | [Бочка](https://www.e-olymp.com/uk/problems/7375)                                                      | [7xxx/7375.py](7xxx/7375.py)                           |
+| 7401 | [Друзі Антона](https://www.e-olymp.com/uk/problems/7401)                                               | [7xxx/7401.py](7xxx/7401.py)                           |
+| 7411 | [Рівняння для 5 класу!](https://www.e-olymp.com/uk/problems/7411)                                      | [7xxx/7411.py](7xxx/7411.py)                           |
+| 7459 | [Непарні розряди](https://www.e-olymp.com/uk/problems/7459)                                            | [7xxx/7459.cpp](7xxx/7459.cpp)                         |
+| 7460 | [Поїздка на екскурсію.](https://www.e-olymp.com/uk/problems/7460)                                      | [7xxx/7460.py](7xxx/7460.py)                           |
+| 7784 | [Золоті злитки](https://www.e-olymp.com/uk/problems/7784)                                              | [7xxx/7784.py](7xxx/7784.py)                           |
+| 7812 | [Більше серед чотирьох](https://www.e-olymp.com/uk/problems/7812)                                      | [7xxx/7812.py](7xxx/7812.py)                           |
+| 7814 | [Двоцифрове число з трицифрового](https://www.e-olymp.com/uk/problems/7814)                            | [7xxx/7814.py](7xxx/7814.py)                           |
+| 7829 | [Сума елементів](https://www.e-olymp.com/uk/problems/7829)                                             | [7xxx/7829.py](7xxx/7829.py)                           |
+| 7943 | [Периметр прямокутника](https://www.e-olymp.com/uk/problems/7943)                                      | [7xxx/7943.cpp](7xxx/7943.cpp)                         |
+| 7944 | [Площа прямокутника](https://www.e-olymp.com/uk/problems/7944)                                         | [7xxx/7944.cpp](7xxx/7944.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
 | 8172 | [Многогранники](https://www.e-olymp.com/uk/problems/8172)                                              | [8xxx/8172.py](8xxx/8172.py)                           |
+| 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.py](8xxx/8.py)                           |
+| 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.cpp](8xxx/8.cpp)                         |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
 | 9000 | [Впорядкування](https://www.e-olymp.com/uk/problems/9000)                                              | [9xxx/9000.py](9xxx/9000.py)                           |
