@@ -104,10 +104,25 @@ Compilers:
 | 1658 | [Факториал](https://www.e-olymp.com/uk/problems/1658)                                                  | [1xxx/1658.py](1xxx/1658.py)                           |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
 | 2043 | [Квартал](https://www.e-olymp.com/uk/problems/2043)                                                    | [2xxx/2043.py](2xxx/2043.py)                           |
-| 2 | [](https://www.e-olymp.com/uk/problems/2)                                       | [2xxx/2.py](2xxx/2.py)                           |
-| 2 | [](https://www.e-olymp.com/uk/problems/2)                                         | [2xxx/2.cpp](2xxx/2.cpp)                       |
+| 2044 | [Місяць](https://www.e-olymp.com/uk/problems/2044)                                                     | [2xxx/2044.py](2xxx/2044.py)                           |
+| 2098 | [Перевертач](https://www.e-olymp.com/uk/problems/2098)                                                 | [2xxx/2098.py](2xxx/2098.py)                           |
+| 2162 | [Паліндром](https://www.e-olymp.com/uk/problems/2162)                                                  | [2xxx/2162.py](2xxx/2162.py)                           |
+| 2164 | [Шифр Юлія](https://www.e-olymp.com/uk/problems/2164)                                                  | [2xxx/2164.cpp](2xxx/2164.cpp)                         |
+| 2166 | [Анаграми](https://www.e-olymp.com/uk/problems/2166)                                                   | [2xxx/2166.py](2xxx/2166.py)                           |
+| 2206 | [Маршрутне таксі](https://www.e-olymp.com/uk/problems/2206)                                            | [2xxx/2206.cpp](2xxx/2206.cpp)                         |
+| 2218 | [Монетки](https://www.e-olymp.com/uk/problems/2218)                                                    | [2xxx/2218.py](2xxx/2218.py)                           |
+| 2370 | [Автоматизована Телефонна Станція](https://www.e-olymp.com/uk/problems/2370)                           | [2xxx/2370.py](2xxx/2370.py)                           |
+| 2391 | [Вартість розмови](https://www.e-olymp.com/uk/problems/2391)                                           | [2xxx/2391.py](2xxx/2391.py)                           |
+| 2607 | [Ознака подільності на 11](https://www.e-olymp.com/uk/problems/2607)                                   | [2xxx/2607.py](2xxx/2607.py)                           |
+| 2611 | [Замінити цифру](https://www.e-olymp.com/uk/problems/2611)                                             | [2xxx/2611.py](2xxx/2611.py)                           |
+| 2860 | [Сума чисел на проміжку](https://www.e-olymp.com/uk/problems/2860)                                     | [2xxx/2860.py](2xxx/2860.py)                           |
+| 2861 | [Сума непарних чисел](https://www.e-olymp.com/uk/problems/2861)                                        | [2xxx/2861.cpp](2xxx/2861.cpp)                         |
+| 2862 | [Кількість дільників](https://www.e-olymp.com/uk/problems/2862)                                        | [2xxx/2862.py](2xxx/2862.py)                           |
+| 2863 | [Непарні дільники](https://www.e-olymp.com/uk/problems/2863)                                           | [2xxx/2863.py](2xxx/2863.py)                           |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
 | 3002 | [Турнір](https://www.e-olymp.com/uk/problems/3002)                                                     | [3xxx/3002.py](3xxx/3002.py)                           |
+| 3 | [](https://www.e-olymp.com/uk/problems/3)                                                   | [3xxx/3.py](3xxx/3.py)                           |
+| 3 | [](https://www.e-olymp.com/uk/problems/3)                                                   | [3xxx/3.cpp](3xxx/3.cpp)                         |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
 | 4101 | [Трьохзначні числа](https://www.e-olymp.com/uk/problems/4101)                                          | [4xxx/4101.py](4xxx/4101.py)                           |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
