@@ -121,10 +121,18 @@ Compilers:
 | 2863 | [Непарні дільники](https://www.e-olymp.com/uk/problems/2863)                                           | [2xxx/2863.py](2xxx/2863.py)                           |
 |      | 3000-3999                                                                                              | [3xxx/](3xxx/)                                         |
 | 3002 | [Турнір](https://www.e-olymp.com/uk/problems/3002)                                                     | [3xxx/3002.py](3xxx/3002.py)                           |
-| 3 | [](https://www.e-olymp.com/uk/problems/3)                                                   | [3xxx/3.py](3xxx/3.py)                           |
-| 3 | [](https://www.e-olymp.com/uk/problems/3)                                                   | [3xxx/3.cpp](3xxx/3.cpp)                         |
+| 3171 | [Точка всередині круга](https://www.e-olymp.com/uk/problems/3171)                                      | [3xxx/3171.py](3xxx/3171.py)                           |
+| 3189 | [Трикутник](https://www.e-olymp.com/uk/problems/3189)                                                  | [3xxx/3189.py](3xxx/3189.py)                           |
+| 3254 | [01110001, ось запитання](https://www.e-olymp.com/uk/problems/3254)                                    | [3xxx/3254.py](3xxx/3254.py)                           |
+| 3255 | [Арифметика](https://www.e-olymp.com/uk/problems/3255)                                                 | [3xxx/3255.py](3xxx/3255.py)                           |
+| 3258 | [Послідовність Фібоначчі](https://www.e-olymp.com/uk/problems/3258)                                    | [3xxx/3258.py](3xxx/3258.py)                           |
+| 3364 | [Всегда следуйте правилам в Зомбиленде](https://www.e-olymp.com/uk/problems/3364)                      | [3xxx/3364.py](3xxx/3364.py)                           |
+| 3744 | [Снова факториал!](https://www.e-olymp.com/uk/problems/3744)                                           | [3xxx/3744.py](3xxx/3744.py)                           |
+| 3867 | [Лінивий Мишко](https://www.e-olymp.com/uk/problems/3867)                                              | [3xxx/3867.py](3xxx/3867.py)                           |
 |      | 4000-4999                                                                                              | [4xxx/](4xxx/)                                         |
 | 4101 | [Трьохзначні числа](https://www.e-olymp.com/uk/problems/4101)                                          | [4xxx/4101.py](4xxx/4101.py)                           |
+| 4 | [](https://www.e-olymp.com/uk/problems/4)                                                   | [4xxx/4.py](4xxx/4.py)                           |
+| 4 | [](https://www.e-olymp.com/uk/problems/4)                                                   | [4xxx/4.cpp](4xxx/4.cpp)                         |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
 |      | 6000-6999                                                                                              | [6xxx/](6xxx/)                                         |
