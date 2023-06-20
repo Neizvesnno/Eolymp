@@ -451,5 +451,13 @@ Compilers:
 | 9933 | [Годинник](https://www.e-olymp.com/uk/problems/9933)                                                   | [9xxx/9933.py](9xxx/9933.py)                           |
 | 9934 | [Годинник 2](https://www.e-olymp.com/uk/problems/9934)                                                 | [9xxx/9934.py](9xxx/9934.py)                           |
 | 9935 | [Годинник 3](https://www.e-olymp.com/uk/problems/9935)                                                 | [9xxx/9935.cpp](9xxx/9935.cpp)                         |
-| 9 | [](https://www.e-olymp.com/uk/problems/9)                                                   | [9xxx/9.py](9xxx/9.py)                           |
-| 9 | [](https://www.e-olymp.com/uk/problems/9)                                                   | [9xxx/9.cpp](9xxx/9.cpp)                         |
+|      | 10000-10999                                                                                            | [10xxx/](10xxx/)                                       |
+| 10225| [Трикутник](https://www.e-olymp.com/uk/problems/10225)                                                 | [10xxx/10225.py](10xxx/10225.py)                       |
+| 10229| [Електронний годинник](https://www.e-olymp.com/uk/problems/10229)                                      | [10xxx/10229.py](10xxx/10229.py)                       |
+| 10255| [E. Козак Вус та матриця](https://www.e-olymp.com/uk/problems/10255)                                   | [10xxx/10255.py](10xxx/10255.py)                       |
+| 10275| [А+B=С?](https://www.e-olymp.com/uk/problems/10275)                                                    | [10xxx/10275.py](10xxx/10275.py)                       |
+|      | 11000-11999                                                                                            | [11xxx/](11xxx/)                                       |
+| 11065| [Индикатор](https://www.e-olymp.com/uk/problems/11065)                                                 | [11xxx/11065.py](11xxx/11065.py)                       |
+| 11333| [Квадрат](https://www.e-olymp.com/uk/problems/11333)                                                   | [11xxx/11333.py](11xxx/11333.py)                       |
+| 11338| [Кузнечик и цепь](https://www.e-olymp.com/uk/problems/11338)                                           | [11xxx/11338.cpp](11xxx/11338.cpp)                     |
+| 11395| [Равлики і порив вітру.](https://www.e-olymp.com/uk/problems/11395)                                    | [11xxx/11395.cpp](11xxx/11395.cpp)                     |
