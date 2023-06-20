@@ -420,7 +420,6 @@ Compilers:
 | 8997 | [Модні символи 2](https://www.e-olymp.com/uk/problems/8997)                                            | [8xxx/8997.py](8xxx/8997.py)                           |
 | 8998 | [Наймолодший символ](https://www.e-olymp.com/uk/problems/8998)                                         | [8xxx/8998.py](8xxx/8998.py)                           |
 | 8999 | [Найстарший символ](https://www.e-olymp.com/uk/problems/8999)                                          | [8xxx/8999.py](8xxx/8999.py)                           |
-
 | 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.py](8xxx/8.py)                           |
 | 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.cpp](8xxx/8.cpp)                         |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
