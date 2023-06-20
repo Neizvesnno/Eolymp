@@ -1,0 +1,7 @@
+n = str(input())
+
+n = n.replace("a", "1")
+n = n.replace("b", "a")
+n = n.replace("1", "b")
+
+print(n)
