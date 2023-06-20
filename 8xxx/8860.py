@@ -1,0 +1,11 @@
+n=int(input())
+od=n%10
+des=n//10%10
+sot=n//100%10
+a1=(sot*100+od*10+des)
+a2=(des*100+sot*10+od)
+a3=(des*100+od*10+sot)
+a4=(od*100+sot*10+des)
+a5=(od*100+des*10+sot)
+vid=(n+a1+a2+a3+a4+a5)
+print(vid)
