@@ -420,7 +420,36 @@ Compilers:
 | 8997 | [Модні символи 2](https://www.e-olymp.com/uk/problems/8997)                                            | [8xxx/8997.py](8xxx/8997.py)                           |
 | 8998 | [Наймолодший символ](https://www.e-olymp.com/uk/problems/8998)                                         | [8xxx/8998.py](8xxx/8998.py)                           |
 | 8999 | [Найстарший символ](https://www.e-olymp.com/uk/problems/8999)                                          | [8xxx/8999.py](8xxx/8999.py)                           |
-| 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.py](8xxx/8.py)                           |
-| 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.cpp](8xxx/8.cpp)                         |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
 | 9000 | [Впорядкування](https://www.e-olymp.com/uk/problems/9000)                                              | [9xxx/9000.py](9xxx/9000.py)                           |
+| 9001 | [Велике значення](https://www.e-olymp.com/uk/problems/9001)                                            | [9xxx/9001.py](9xxx/9001.py)                           |
+| 9002 | [Шанувальник шоколоду](https://www.e-olymp.com/uk/problems/9002)                                       | [9xxx/9002.cpp](9xxx/9002.cpp)                         |
+| 9393 | [Видаліть непарні цифри](https://www.e-olymp.com/uk/problems/9393)                                     | [9xxx/9393.py](9xxx/9393.py)                           |
+| 9406 | [Професор і батарейки](https://www.e-olymp.com/uk/problems/9406)                                       | [9xxx/9406.cpp](9xxx/9406.cpp)                         |
+| 9634 | [Пройти в финал](https://www.e-olymp.com/uk/problems/9634)                                             | [9xxx/9634.py](9xxx/9634.py)                           |
+| 9912 | [Копія тексту](https://www.e-olymp.com/uk/problems/9912)                                               | [9xxx/9912.py](9xxx/9912.py)                           |
+| 9913 | [Google is beautiful!](https://www.e-olymp.com/uk/problems/9913)                                       | [9xxx/9913.py](9xxx/9913.py)                           |
+| 9914 | [Welcome, Linux!](https://www.e-olymp.com/uk/problems/9914)                                            | [9xxx/9914.py](9xxx/9914.py)                           |
+| 9915 | [Копіювання тексту](https://www.e-olymp.com/uk/problems/9915)                                          | [9xxx/9915.py](9xxx/9915.py)                           |
+| 9916 | [Копіювання тексту 2](https://www.e-olymp.com/uk/problems/9916)                                        | [9xxx/9916.py](9xxx/9916.py)                           |
+| 9917 | [Копіювання тексту 3](https://www.e-olymp.com/uk/problems/9917)                                        | [9xxx/9917.py](9xxx/9917.py)                           |
+| 9918 | [Копіювання тексту 4](https://www.e-olymp.com/uk/problems/9918)                                        | [9xxx/9918.py](9xxx/9918.py)                           |
+| 9919 | [Копіювання тексту 5](https://www.e-olymp.com/uk/problems/9919)                                        | [9xxx/9919.py](9xxx/9919.py)                           |
+| 9920 | [Виведення тексту](https://www.e-olymp.com/uk/problems/9920)                                           | [9xxx/9920.py](9xxx/9920.py)                           |
+| 9921 | [Виведення тексту 2](https://www.e-olymp.com/uk/problems/9921)                                         | [9xxx/9921.py](9xxx/9921.py)                           |
+| 9922 | [Виведення тексту 3](https://www.e-olymp.com/uk/problems/9922)                                         | [9xxx/9922.py](9xxx/9922.py)                           |
+| 9923 | [Виведення тексту 4](https://www.e-olymp.com/uk/problems/9923)                                         | [9xxx/9923.py](9xxx/9923.py)                           |
+| 9924 | [Повні кілограми](https://www.e-olymp.com/uk/problems/9924)                                            | [9xxx/9924.py](9xxx/9924.py)                           |
+| 9925 | [Кілограми та грами](https://www.e-olymp.com/uk/problems/9925)                                         | [9xxx/9925.py](9xxx/9925.py)                           |
+| 9926 | [Повні метри](https://www.e-olymp.com/uk/problems/9926)                                                | [9xxx/9926.py](9xxx/9926.py)                           |
+| 9927 | [Метри та сантиметри](https://www.e-olymp.com/uk/problems/9927)                                        | [9xxx/9927.py](9xxx/9927.py)                           |
+| 9928 | [Повні кілометри](https://www.e-olymp.com/uk/problems/9928)                                            | [9xxx/9928.py](9xxx/9928.py)                           |
+| 9929 | [Кілометри та метри](https://www.e-olymp.com/uk/problems/9929)                                         | [9xxx/9929.py](9xxx/9929.py)                           |
+| 9930 | [Сервер](https://www.e-olymp.com/uk/problems/9930)                                                     | [9xxx/9930.py](9xxx/9930.py)                           |
+| 9931 | [Криптовалюта](https://www.e-olymp.com/uk/problems/9931)                                               | [9xxx/9931.py](9xxx/9931.py)                           |
+| 9932 | [Розмір файлу](https://www.e-olymp.com/uk/problems/9932)                                               | [9xxx/9932.py](9xxx/9932.py)                           |
+| 9933 | [Годинник](https://www.e-olymp.com/uk/problems/9933)                                                   | [9xxx/9933.py](9xxx/9933.py)                           |
+| 9934 | [Годинник 2](https://www.e-olymp.com/uk/problems/9934)                                                 | [9xxx/9934.py](9xxx/9934.py)                           |
+| 9935 | [Годинник 3](https://www.e-olymp.com/uk/problems/9935)                                                 | [9xxx/9935.cpp](9xxx/9935.cpp)                         |
+| 9 | [](https://www.e-olymp.com/uk/problems/9)                                                   | [9xxx/9.py](9xxx/9.py)                           |
+| 9 | [](https://www.e-olymp.com/uk/problems/9)                                                   | [9xxx/9.cpp](9xxx/9.cpp)                         |
