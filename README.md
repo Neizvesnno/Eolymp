@@ -221,7 +221,7 @@ Compilers:
 | 8696 | [Оцінки](https://www.e-olymp.com/uk/problems/8696)                                                     | [8xxx/8696.py](8xxx/8696.py)                           |
 | 8697 | [Квадратний рядок](https://www.e-olymp.com/uk/problems/8697)                                           | [8xxx/8697.py](8xxx/8697.py)                           |
 | 8800 | [Hello, Python](https://www.e-olymp.com/uk/problems/8800)                                              | [8xxx/8800.py](8xxx/8800.py)                           |
-| 8801 | [Наступне число](https://www.e-olymp.com/uk/problems/8801)                                             | [8xxx/8801.py](8xxx/8801.py)                           |
+| 8801 | [Наступне число](https://www.e-olymp.com/uk/problems/8801)                                             | [8xxx/8801.cpp](8xxx/8801.cpp)                         |
 | 8802 | [Попереднє число](https://www.e-olymp.com/uk/problems/8802)                                            | [8xxx/8802.py](8xxx/8802.py)                           |
 | 8803 | [Хто крайній?](https://www.e-olymp.com/uk/problems/8803)                                               | [8xxx/8803.py](8xxx/8803.py)                           |
 | 8804 | [Сума двох цілих](https://www.e-olymp.com/uk/problems/8804)                                            | [8xxx/8804.py](8xxx/8804.py)                           |
@@ -298,13 +298,13 @@ Compilers:
 | 8875 | [Трицифрове число](https://www.e-olymp.com/uk/problems/8875)                                           | [8xxx/8875.py](8xxx/8875.py)                           |
 | 8876 | [Ціле число](https://www.e-olymp.com/uk/problems/8876)                                                 | [8xxx/8876.py](8xxx/8876.py)                           |
 | 8877 | [Повний квадрат](https://www.e-olymp.com/uk/problems/8877)                                             | [8xxx/8877.py](8xxx/8877.py)                           |
-| 8878 | [Степінь числа 10](https://www.e-olymp.com/uk/problems/8878)                                           | [8xxx/8878.py](8xxx/8878.py)                           |
+| 8878 | [Степінь числа 10](https://www.e-olymp.com/uk/problems/8878)                                           | [8xxx/8878.cpp](8xxx/8878.cpp)                         |
 | 8879 | [Трикутник](https://www.e-olymp.com/uk/problems/8879)                                                  | [8xxx/8879.py](8xxx/8879.py)                           |
 | 8880 | [Рівносторонній трикутник](https://www.e-olymp.com/uk/problems/8880)                                   | [8xxx/8880.py](8xxx/8880.py)                           |
-| 8881 | [Рівнобедрений трикутник](https://www.e-olymp.com/uk/problems/8881)                                    | [8xxx/8881.py](8xxx/8881.py)                           |
+| 8881 | [Рівнобедрений трикутник](https://www.e-olymp.com/uk/problems/8881)                                    | [8xxx/8881.cpp](8xxx/8881.cpp)                         |
 | 8882 | [Квадрат](https://www.e-olymp.com/uk/problems/8882)                                                    | [8xxx/8882.py](8xxx/8882.py)                           |
-| 8883 | [Прямокутник](https://www.e-olymp.com/uk/problems/8883)                                                | [8xxx/8883.py](8xxx/8883.py)                           |
-| 8884 | [Трикутник 2](https://www.e-olymp.com/uk/problems/8884)                                                | [8xxx/8884.py](8xxx/8884.py)                           |
+| 8883 | [Прямокутник](https://www.e-olymp.com/uk/problems/8883)                                                | [8xxx/8883.cpp](8xxx/8883.cpp)                         |
+| 8884 | [Трикутник 2](https://www.e-olymp.com/uk/problems/8884)                                                | [8xxx/8884.cpp](8xxx/8884.cpp)                           |
 | 8885 | [Попереднє непарне число](https://www.e-olymp.com/uk/problems/8885)                                    | [8xxx/8885.py](8xxx/8885.py)                           |
 | 8886 | [Попереднє парне число](https://www.e-olymp.com/uk/problems/8886)                                      | [8xxx/8886.py](8xxx/8886.py)                           |
 | 8887 | [Наступне непарне число](https://www.e-olymp.com/uk/problems/8887)                                     | [8xxx/8887.py](8xxx/8887.py)                           |
@@ -339,18 +339,18 @@ Compilers:
 | 8916 | [Перші парні](https://www.e-olymp.com/uk/problems/8916)                                                | [8xxx/8916.py](8xxx/8916.py)                           |
 | 8917 | [Степені двійки](https://www.e-olymp.com/uk/problems/8917)                                             | [8xxx/8917.py](8xxx/8917.py)                           |
 | 8918 | [Повні квадрати](https://www.e-olymp.com/uk/problems/8918)                                             | [8xxx/8918.py](8xxx/8918.py)                           |
-| 8919 | [Повні куби](https://www.e-olymp.com/uk/problems/8919)                                                 | [8xxx/8919.py](8xxx/8919.py)                           |
-| 8920 | [Некратні 2 3 5](https://www.e-olymp.com/uk/problems/8920)                                             | [8xxx/8920.py](8xxx/8920.py)                           |
+| 8919 | [Повні куби](https://www.e-olymp.com/uk/problems/8919)                                                 | [8xxx/8919.cpp](8xxx/8919.cpp)                         |
+| 8920 | [Некратні 2 3 5](https://www.e-olymp.com/uk/problems/8920)                                             | [8xxx/8920.cpp](8xxx/8920.cpp)                         |
 | 8921 | [Цифри числа](https://www.e-olymp.com/uk/problems/8921)                                                | [8xxx/8921.py](8xxx/8921.py)                           |
 | 8922 | [Кількість цифр](https://www.e-olymp.com/uk/problems/8922)                                             | [8xxx/8922.py](8xxx/8922.py)                           |
 | 8923 | [Число навпаки 3](https://www.e-olymp.com/uk/problems/8923)                                            | [8xxx/8923.py](8xxx/8923.py)                           |
 | 8924 | [Сума парних цифр числа](https://www.e-olymp.com/uk/problems/8924)                                     | [8xxx/8924.py](8xxx/8924.py)                           |
 | 8925 | [Добуток непарних цифр числа](https://www.e-olymp.com/uk/problems/8925)                                | [8xxx/8925.py](8xxx/8925.py)                           |
 | 8926 | [Заміна парності](https://www.e-olymp.com/uk/problems/8926)                                            | [8xxx/8926.py](8xxx/8926.py)                           |
-| 8927 | [Найменший дільник](https://www.e-olymp.com/uk/problems/8927)                                          | [8xxx/8927.py](8xxx/8927.py)                           |
-| 8928 | [Найбільший дільник](https://www.e-olymp.com/uk/problems/8928)                                         | [8xxx/8928.py](8xxx/8928.py)                           |
-| 8929 | [Просте число](https://www.e-olymp.com/uk/problems/8929)                                               | [8xxx/8929.py](8xxx/8929.py)                           |
-| 8930 | [Прості множники](https://www.e-olymp.com/uk/problems/8930)                                            | [8xxx/8930.py](8xxx/8930.py)                           |
+| 8927 | [Найменший дільник](https://www.e-olymp.com/uk/problems/8927)                                          | [8xxx/8927.cpp](8xxx/8927.cpp)                         |
+| 8928 | [Найбільший дільник](https://www.e-olymp.com/uk/problems/8928)                                         | [8xxx/8928.cpp](8xxx/8928.cpp)                         |
+| 8929 | [Просте число](https://www.e-olymp.com/uk/problems/8929)                                               | [8xxx/8929.cpp](8xxx/8929.cpp)                         |
+| 8930 | [Прості множники](https://www.e-olymp.com/uk/problems/8930)                                            | [8xxx/8930.cpp](8xxx/8930.cpp)                         |
 | 8931 | [Усі OK](https://www.e-olymp.com/uk/problems/8931)                                                     | [8xxx/8931.py](8xxx/8931.py)                           |
 | 8932 | [Марафон 2](https://www.e-olymp.com/uk/problems/8932)                                                  | [8xxx/8932.py](8xxx/8932.py)                           |
 | 8933 | [Таймер](https://www.e-olymp.com/uk/problems/8933)                                                     | [8xxx/8933.py](8xxx/8933.py)                           |
@@ -369,10 +369,10 @@ Compilers:
 | 8946 | [Шаблон](https://www.e-olymp.com/uk/problems/8946)                                                     | [8xxx/8946.py](8xxx/8946.py)                           |
 | 8947 | [Шаблон 2](https://www.e-olymp.com/uk/problems/8947)                                                   | [8xxx/8947.py](8xxx/8947.py)                           |
 | 8948 | [Шаблон 3](https://www.e-olymp.com/uk/problems/8948)                                                   | [8xxx/8948.py](8xxx/8948.py)                           |
-| 8949 | [Шаблон 4](https://www.e-olymp.com/uk/problems/8949)                                                   | [8xxx/8949.py](8xxx/8949.py)                           |
-| 8950 | [Шаблон 5](https://www.e-olymp.com/uk/problems/8950)                                                   | [8xxx/8950.py](8xxx/8950.py)                           |
-| 8951 | [Шаблон 6](https://www.e-olymp.com/uk/problems/8951)                                                   | [8xxx/8951.py](8xxx/8951.py)                           |
-| 8952 | [Шаблон 7](https://www.e-olymp.com/uk/problems/8952)                                                   | [8xxx/8952.py](8xxx/8952.py)                           |
+| 8949 | [Шаблон 4](https://www.e-olymp.com/uk/problems/8949)                                                   | [8xxx/8949.cpp](8xxx/8949.cpp)                         |
+| 8950 | [Шаблон 5](https://www.e-olymp.com/uk/problems/8950)                                                   | [8xxx/8950.cpp](8xxx/8950.cpp)                         |
+| 8951 | [Шаблон 6](https://www.e-olymp.com/uk/problems/8951)                                                   | [8xxx/8951.cpp](8xxx/8951.cpp)                         |
+| 8952 | [Шаблон 7](https://www.e-olymp.com/uk/problems/8952)                                                   | [8xxx/8952.cpp](8xxx/8952.cpp)                         |
 | 8953 | [Вивести масив](https://www.e-olymp.com/uk/problems/8953)                                              | [8xxx/8953.py](8xxx/8953.py)                           |
 | 8954 | [Вивести масив 2](https://www.e-olymp.com/uk/problems/8954)                                            | [8xxx/8954.py](8xxx/8954.py)                           |
 | 8955 | [Вивести масив 3](https://www.e-olymp.com/uk/problems/8955)                                            | [8xxx/8955.py](8xxx/8955.py)                           |
@@ -387,16 +387,16 @@ Compilers:
 | 8964 | [Найбільші вправо](https://www.e-olymp.com/uk/problems/8964)                                           | [8xxx/8964.py](8xxx/8964.py)                           |
 | 8965 | [Початкові значення елементів](https://www.e-olymp.com/uk/problems/8965)                               | [8xxx/8965.py](8xxx/8965.py)                           |
 | 8966 | [Початковий порядок](https://www.e-olymp.com/uk/problems/8966)                                         | [8xxx/8966.py](8xxx/8966.py)                           |
-| 8967 | [Початкові значення елементів 2](https://www.e-olymp.com/uk/problems/8967)                             | [8xxx/8967.py](8xxx/8967.py)                           |
-| 8968 | [Початкові значення елементів 3](https://www.e-olymp.com/uk/problems/8968)                             | [8xxx/8968.py](8xxx/8968.py)                           |
+| 8967 | [Початкові значення елементів 2](https://www.e-olymp.com/uk/problems/8967)                             | [8xxx/8967.cpp](8xxx/8967.cpp)                         |
+| 8968 | [Початкові значення елементів 3](https://www.e-olymp.com/uk/problems/8968)                             | [8xxx/8968.cpp](8xxx/8968.cpp)                         |
 | 8969 | [Початкові значення елементів 4](https://www.e-olymp.com/uk/problems/8969)                             | [8xxx/8969.py](8xxx/8969.py)                           |
 | 8970 | [Відновлення масиву](https://www.e-olymp.com/uk/problems/8970)                                         | [8xxx/8970.py](8xxx/8970.py)                           |
 | 8971 | [Без повторень](https://www.e-olymp.com/uk/problems/8971)                                              | [8xxx/8971.py](8xxx/8971.py)                           |
 | 8972 | [Модні елементи](https://www.e-olymp.com/uk/problems/8972)                                             | [8xxx/8972.py](8xxx/8972.py)                           |
 | 8973 | [Без повторень 2](https://www.e-olymp.com/uk/problems/8973)                                            | [8xxx/8973.py](8xxx/8973.py)                           |
 | 8974 | [Модні елементи 2](https://www.e-olymp.com/uk/problems/8974)                                           | [8xxx/8974.py](8xxx/8974.py)                           |
-| 8975 | [Модні елементи 3](https://www.e-olymp.com/uk/problems/8975)                                           | [8xxx/8975.py](8xxx/8975.py)                           |
-| 8976 | [Модні елементи 4](https://www.e-olymp.com/uk/problems/8976)                                           | [8xxx/8976.py](8xxx/8976.py)                           |
+| 8975 | [Модні елементи 3](https://www.e-olymp.com/uk/problems/8975)                                           | [8xxx/8975.cpp](8xxx/8975.cpp)                         |
+| 8976 | [Модні елементи 4](https://www.e-olymp.com/uk/problems/8976)                                           | [8xxx/8976.cpp](8xxx/8976.cpp)                         |
 | 8977 | [Робимо зрізи 2](https://www.e-olymp.com/uk/problems/8977)                                             | [8xxx/8977.py](8xxx/8977.py)                           |
 | 8978 | [Робимо зрізи 3](https://www.e-olymp.com/uk/problems/8978)                                             | [8xxx/8978.py](8xxx/8978.py)                           |
 | 8979 | [Лише одна буква](https://www.e-olymp.com/uk/problems/8979)                                            | [8xxx/8979.py](8xxx/8979.py)                           |
@@ -412,7 +412,7 @@ Compilers:
 | 8989 | [Подвоєння символа](https://www.e-olymp.com/uk/problems/8989)                                          | [8xxx/8989.py](8xxx/8989.py)                           |
 | 8990 | [Подвоєння голосних](https://www.e-olymp.com/uk/problems/8990)                                         | [8xxx/8990.py](8xxx/8990.py)                           |
 | 8991 | [Подвоєння символів](https://www.e-olymp.com/uk/problems/8991)                                         | [8xxx/8991.py](8xxx/8991.py)                           |
-| 8992 | [Без повторень 3](https://www.e-olymp.com/uk/problems/8992)                                            | [8xxx/8992.py](8xxx/8992.py)                           |
+| 8992 | [Без повторень 3](https://www.e-olymp.com/uk/problems/8992)                                            | [8xxx/8992.cpp](8xxx/8992.cpp)                         |
 | 8993 | [Скласти слово](https://www.e-olymp.com/uk/problems/8993)                                              | [8xxx/8993.py](8xxx/8993.py)                           |
 | 8994 | [Скласти слово 2](https://www.e-olymp.com/uk/problems/8994)                                            | [8xxx/8994.py](8xxx/8994.py)                           |
 | 8995 | [Модні символи](https://www.e-olymp.com/uk/problems/8995)                                              | [8xxx/8995.py](8xxx/8995.py)                           |
