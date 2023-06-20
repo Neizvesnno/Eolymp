@@ -1,0 +1,18 @@
+q = str(input())
+
+w = q.count("**")
+q = q.replace("**", ' ')
+w += q.count('//')
+q = q.replace('//', ' ')
+w += q.count('+')
+q = q.replace('+', ' ')
+w += q.count('-')
+q = q.replace('-', ' ')
+w += q.count('/')
+q = q.replace('/', ' ')
+w += q.count('*')
+q = q.replace('*', ' ')
+w += q.count('%')
+q = q.replace('%', ' ')
+
+print(w)
