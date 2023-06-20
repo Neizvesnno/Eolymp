@@ -175,6 +175,51 @@ Compilers:
 | 7944 | [Площа прямокутника](https://www.e-olymp.com/uk/problems/7944)                                         | [7xxx/7944.cpp](7xxx/7944.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
 | 8172 | [Многогранники](https://www.e-olymp.com/uk/problems/8172)                                              | [8xxx/8172.py](8xxx/8172.py)                           |
+| 8173 | [Большинство](https://www.e-olymp.com/uk/problems/8173)                                                | [8xxx/8173.py](8xxx/8173.py)                           |
+| 8224 | [Суфікси підрядка](https://www.e-olymp.com/uk/problems/8224)                                           | [8xxx/8224.py](8xxx/8224.py)                           |
+| 8241 | [Функція - 3](https://www.e-olymp.com/uk/problems/8241)                                                | [8xxx/8241.cpp](8xxx/8241.cpp)                         |
+| 8242 | [Додатнє, від'ємне чи нуль](https://www.e-olymp.com/uk/problems/8242)                                  | [8xxx/8242.py](8xxx/8242.py)                           |
+| 8243 | [Перша цифра числа](https://www.e-olymp.com/uk/problems/8243)                                          | [8xxx/8243.py](8xxx/8243.py)                           |
+| 8254 | [Номера готелю](https://www.e-olymp.com/uk/problems/8254)                                              | [8xxx/8254.py](8xxx/8254.py)                           |
+| 8304 | [Весела функція](https://www.e-olymp.com/uk/problems/8304)                                             | [8xxx/8304.cpp](8xxx/8304.cpp)                         |
+| 8318 | [Удалите цифры](https://www.e-olymp.com/uk/problems/8318)                                              | [8xxx/8318.py](8xxx/8318.py)                           |
+| 8371 | [Парне чи непарне](https://www.e-olymp.com/uk/problems/8371)                                           | [8xxx/8371.py](8xxx/8371.py)                           |
+| 8382 | [Пароль](https://www.e-olymp.com/uk/problems/8382)                                                     | [8xxx/8382.py](8xxx/8382.py)                           |
+| 8520 | [Умовний оператор - 1](https://www.e-olymp.com/uk/problems/8520)                                       | [8xxx/8520.py](8xxx/8520.py)                           |
+| 8522 | [Подільність](https://www.e-olymp.com/uk/problems/8522)                                                | [8xxx/8522.py](8xxx/8522.py)                           |
+| 8532 | [Друк квадратів і кубів](https://www.e-olymp.com/uk/problems/8532)                                     | [8xxx/8532.py](8xxx/8532.py)                           |
+| 8533 | [Числа з різними цифрами](https://www.e-olymp.com/uk/problems/8533)                                    | [8xxx/8533.py](8xxx/8533.py)                           |
+| 8544 | [Квадрати чисел](https://www.e-olymp.com/uk/problems/8544)                                             | [8xxx/8544.py](8xxx/8544.py)                           |
+| 8546 | [Знайдіть суму](https://www.e-olymp.com/uk/problems/8546)                                              | [8xxx/8546.py](8xxx/8546.py)                           |
+| 8569 | [Довжина рядка](https://www.e-olymp.com/uk/problems/8569)                                              | [8xxx/8569.py](8xxx/8569.py)                           |
+| 8575 | [Супер-Пупер-Банкомат](https://www.e-olymp.com/uk/problems/8575)                                       | [8xxx/8575.py](8xxx/8575.py)                           |
+| 8592 | [Проста функція](https://www.e-olymp.com/uk/problems/8592)                                             | [8xxx/8592.cpp](8xxx/8592.cpp)                         |
+| 8610 | [Попередня і наступна буква](https://www.e-olymp.com/uk/problems/8610)                                 | [8xxx/8610.py](8xxx/8610.py)                           |
+| 8611 | [Вода і лід](https://www.e-olymp.com/uk/problems/8611)                                                 | [8xxx/8611.py](8xxx/8611.py)                           |
+| 8612 | [Умовний оператор - 4](https://www.e-olymp.com/uk/problems/8612)                                       | [8xxx/8612.py](8xxx/8612.py)                           |
+| 8614 | [Усередині інтервалу](https://www.e-olymp.com/uk/problems/8614)                                        | [8xxx/8614.py](8xxx/8614.py)                           |
+| 8620 | [Три однакові цифри](https://www.e-olymp.com/uk/problems/8620)                                         | [8xxx/8620.py](8xxx/8620.py)                           |
+| 8621 | [Дві однакові цифри](https://www.e-olymp.com/uk/problems/8621)                                         | [8xxx/8621.py](8xxx/8621.py)                           |
+| 8622 | [Подільність на цифри](https://www.e-olymp.com/uk/problems/8622)                                       | [8xxx/8622.py](8xxx/8622.py)                           |
+| 8623 | [Квадрат максимального](https://www.e-olymp.com/uk/problems/8623)                                      | [8xxx/8623.py](8xxx/8623.py)                           |
+| 8624 | [Хоча б дві однакові цифри](https://www.e-olymp.com/uk/problems/8624)                                  | [8xxx/8624.py](8xxx/8624.py)                           |
+| 8625 | [Видаліть цифру](https://www.e-olymp.com/uk/problems/8625)                                             | [8xxx/8625.py](8xxx/8625.py)                           |
+| 8626 | [Дві цифри підряд](https://www.e-olymp.com/uk/problems/8626)                                           | [8xxx/8626.py](8xxx/8626.py)                           |
+| 8627 | [Сума сусідніх](https://www.e-olymp.com/uk/problems/8627)                                              | [8xxx/8627.py](8xxx/8627.py)                           |
+| 8628 | [Всі цифри парні](https://www.e-olymp.com/uk/problems/8628)                                            | [8xxx/8628.py](8xxx/8628.py)                           |
+| 8629 | [Хоча б одна непарна](https://www.e-olymp.com/uk/problems/8629)                                        | [8xxx/8629.py](8xxx/8629.py)                           |
+| 8630 | [Максимальна цифра числа](https://www.e-olymp.com/uk/problems/8630)                                    | [8xxx/8630.py](8xxx/8630.py)                           |
+| 8631 | [Кількість максимальних цифр](https://www.e-olymp.com/uk/problems/8631)                                | [8xxx/8631.py](8xxx/8631.py)                           |
+| 8632 | [Кількість непарних цифр](https://www.e-olymp.com/uk/problems/8632)                                    | [8xxx/8632.py](8xxx/8632.py)                           |
+| 8638 | [дописати трійку](https://www.e-olymp.com/uk/problems/8638)                                            | [8xxx/8638.py](8xxx/8638.py)                           |
+| 8642 | [Чотиризначні числа Армстронга](https://www.e-olymp.com/uk/problems/8642)                              | [8xxx/8642.py](8xxx/8642.py)                           |
+| 8654 | [Цілочисельне множення](https://www.e-olymp.com/uk/problems/8654)                                      | [8xxx/8654.py](8xxx/8654.py)                           |
+| 8672 | [Квадратний корінь](https://www.e-olymp.com/uk/problems/8672)                                          | [8xxx/8672.py](8xxx/8672.py)                           |
+| 8681 | [Добуток ненульових цифр](https://www.e-olymp.com/uk/problems/8681)                                    | [8xxx/8681.py](8xxx/8681.py)                           |
+| 8689 | [Функція - 4](https://www.e-olymp.com/uk/problems/8689)                                                | [8xxx/8689.py](8xxx/8689.py)                           |
+| 8690 | [Функція - 5](https://www.e-olymp.com/uk/problems/8690)                                                | [8xxx/8690.py](8xxx/8690.py)                           |
+| 8696 | [Оцінки](https://www.e-olymp.com/uk/problems/8696)                                                     | [8xxx/8696.py](8xxx/8696.py)                           |
+| 8697 | [Квадратний рядок](https://www.e-olymp.com/uk/problems/8697)                                           | [8xxx/8697.py](8xxx/8697.py)                           |
 | 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.py](8xxx/8.py)                           |
 | 8 | [](https://www.e-olymp.com/uk/problems/8)                                                   | [8xxx/8.cpp](8xxx/8.cpp)                         |
 |      | 9000-9999                                                                                              | [9xxx/](9xxx/)                                         |
