@@ -81,6 +81,7 @@ Compilers:
 | 1000 | [Задача a + b](https://www.e-olymp.com/uk/problems/1000)                                               | [1xxx/1000.cpp](1xxx/1000.cpp)                         |
 | 1142 | [Ділення на нуль чи...](https://www.e-olymp.com/uk/problems/1142)                                      | [1xxx/1142.py](1xxx/1142.py)                           |
 | 1205 | [Сила криптографії](https://www.e-olymp.com/uk/problems/1205)                                          | [1xxx/1205.py](1xxx/1205.py)                           |
+| 1265 | [Єгипет](https://www.e-olymp.com/uk/problems/1265)                                                     | [1xxx/1265.py](1xxx/1265.py)                           |
 | 1286 | [Шкільний буфет](https://www.e-olymp.com/uk/problems/1286)                                             | [1xxx/1286.py](1xxx/1286.py)                           |
 | 1287 | [Змагання з тенісу](https://www.e-olymp.com/uk/problems/1287)                                          | [1xxx/1287.py](1xxx/1287.py)                           |
 | 1288 | [n-значні числа](https://www.e-olymp.com/uk/problems/1288)                                             | [1xxx/1288.py](1xxx/1288.py)                           |
