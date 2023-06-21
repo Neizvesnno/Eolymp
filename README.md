@@ -67,6 +67,7 @@ Compilers:
 | 0923 | [Пора року](https://www.e-olymp.com/uk/problems/923)                                                   | [0xxx/0923.py](0xxx/0923.py)                           |
 | 0927 | [Кількість іграшок](https://www.e-olymp.com/uk/problems/927)                                           | [0xxx/0927.cpp](0xxx/0927.cpp)                         |
 | 0930 | [Номер мобільного телефону](https://www.e-olymp.com/uk/problems/930)                                   | [0xxx/0930.py](0xxx/0930.py)                           |
+| 0931 | [Відношення добутку до суми](https://www.e-olymp.com/uk/problems/931)                                  | [0xxx/0931.py](0xxx/0931.py)                           |
 | 0933 | [Сума цифр двоцифрового числа](https://www.e-olymp.com/uk/problems/933)                                | [0xxx/0933.py](0xxx/0933.py)                           |
 | 0935 | [Розклад трицифрового числа](https://www.e-olymp.com/uk/problems/935)                                  | [0xxx/0935.py](0xxx/0935.py)                           |
 | 0941 | [Різниця](https://www.e-olymp.com/uk/problems/941)                                                     | [0xxx/0941.cpp](0xxx/0941.cpp)                         |
