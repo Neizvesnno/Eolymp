@@ -470,3 +470,4 @@ Compilers:
 | 11433| [Найдите сумму 2](https://www.e-olymp.com/uk/problems/11433)                                           | [11xxx/11433.py](11xxx/11433.py)                       |
 | 11434| [Найдите произведение](https://www.e-olymp.com/uk/problems/11434)                                      | [11xxx/11434.py](11xxx/11434.py)                       |
 | 11437| [Знаковий string](https://www.e-olymp.com/uk/problems/11437)                                           | [11xxx/11437.py](11xxx/11437.py)                       |
+| 11438| [Цифровий string](https://www.e-olymp.com/uk/problems/11438)                                           | [11xxx/11438.py](11xxx/11438.py)                       |
