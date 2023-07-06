@@ -467,3 +467,4 @@ Compilers:
 | 11378| [Сок](https://www.e-olymp.com/uk/problems/11378)                                                       | [11xxx/11378.py](11xxx/11378.py)                       |
 | 11395| [Равлики і порив вітру.](https://www.e-olymp.com/uk/problems/11395)                                    | [11xxx/11395.cpp](11xxx/11395.cpp)                     |
 | 11404| [Скрытый пароль](https://www.e-olymp.com/uk/problems/11404)                                            | [11xxx/11404.py](11xxx/11404.py)                       |
+| 11433| [Найдите сумму 2](https://www.e-olymp.com/uk/problems/11433)                                           | [11xxx/11433.py](11xxx/11433.py)                       |
