@@ -469,3 +469,4 @@ Compilers:
 | 11404| [Скрытый пароль](https://www.e-olymp.com/uk/problems/11404)                                            | [11xxx/11404.py](11xxx/11404.py)                       |
 | 11433| [Найдите сумму 2](https://www.e-olymp.com/uk/problems/11433)                                           | [11xxx/11433.py](11xxx/11433.py)                       |
 | 11434| [Найдите произведение](https://www.e-olymp.com/uk/problems/11434)                                      | [11xxx/11434.py](11xxx/11434.py)                       |
+| 11437| [Знаковий string](https://www.e-olymp.com/uk/problems/11437)                                           | [11xxx/11437.py](11xxx/11437.py)                       |
