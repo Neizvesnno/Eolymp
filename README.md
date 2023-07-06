@@ -464,5 +464,6 @@ Compilers:
 | 11065| [Индикатор](https://www.e-olymp.com/uk/problems/11065)                                                 | [11xxx/11065.py](11xxx/11065.py)                       |
 | 11333| [Квадрат](https://www.e-olymp.com/uk/problems/11333)                                                   | [11xxx/11333.py](11xxx/11333.py)                       |
 | 11338| [Кузнечик и цепь](https://www.e-olymp.com/uk/problems/11338)                                           | [11xxx/11338.cpp](11xxx/11338.cpp)                     |
+| 11378| [Сок](https://www.e-olymp.com/uk/problems/11378)                                                       | [11xxx/11378.py](11xxx/11378.py)                       |
 | 11395| [Равлики і порив вітру.](https://www.e-olymp.com/uk/problems/11395)                                    | [11xxx/11395.cpp](11xxx/11395.cpp)                     |
 | 11404| [Скрытый пароль](https://www.e-olymp.com/uk/problems/11404)                                            | [11xxx/11404.py](11xxx/11404.py)                       |
