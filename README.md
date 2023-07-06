@@ -169,6 +169,7 @@ Compilers:
 | 7411 | [Рівняння для 5 класу!](https://www.e-olymp.com/uk/problems/7411)                                      | [7xxx/7411.py](7xxx/7411.py)                           |
 | 7459 | [Непарні розряди](https://www.e-olymp.com/uk/problems/7459)                                            | [7xxx/7459.cpp](7xxx/7459.cpp)                         |
 | 7460 | [Поїздка на екскурсію.](https://www.e-olymp.com/uk/problems/7460)                                      | [7xxx/7460.py](7xxx/7460.py)                           |
+| 7492 | [Будильник](https://www.e-olymp.com/uk/problems/7492)                                                  | [7xxx/7492.py](7xxx/7492.py)                           |
 | 7784 | [Золоті злитки](https://www.e-olymp.com/uk/problems/7784)                                              | [7xxx/7784.py](7xxx/7784.py)                           |
 | 7812 | [Більше серед чотирьох](https://www.e-olymp.com/uk/problems/7812)                                      | [7xxx/7812.py](7xxx/7812.py)                           |
 | 7814 | [Двоцифрове число з трицифрового](https://www.e-olymp.com/uk/problems/7814)                            | [7xxx/7814.py](7xxx/7814.py)                           |
@@ -306,7 +307,7 @@ Compilers:
 | 8881 | [Рівнобедрений трикутник](https://www.e-olymp.com/uk/problems/8881)                                    | [8xxx/8881.cpp](8xxx/8881.cpp)                         |
 | 8882 | [Квадрат](https://www.e-olymp.com/uk/problems/8882)                                                    | [8xxx/8882.py](8xxx/8882.py)                           |
 | 8883 | [Прямокутник](https://www.e-olymp.com/uk/problems/8883)                                                | [8xxx/8883.cpp](8xxx/8883.cpp)                         |
-| 8884 | [Трикутник 2](https://www.e-olymp.com/uk/problems/8884)                                                | [8xxx/8884.cpp](8xxx/8884.cpp)                           |
+| 8884 | [Трикутник 2](https://www.e-olymp.com/uk/problems/8884)                                                | [8xxx/8884.cpp](8xxx/8884.cpp)                         |
 | 8885 | [Попереднє непарне число](https://www.e-olymp.com/uk/problems/8885)                                    | [8xxx/8885.py](8xxx/8885.py)                           |
 | 8886 | [Попереднє парне число](https://www.e-olymp.com/uk/problems/8886)                                      | [8xxx/8886.py](8xxx/8886.py)                           |
 | 8887 | [Наступне непарне число](https://www.e-olymp.com/uk/problems/8887)                                     | [8xxx/8887.py](8xxx/8887.py)                           |
@@ -464,3 +465,4 @@ Compilers:
 | 11333| [Квадрат](https://www.e-olymp.com/uk/problems/11333)                                                   | [11xxx/11333.py](11xxx/11333.py)                       |
 | 11338| [Кузнечик и цепь](https://www.e-olymp.com/uk/problems/11338)                                           | [11xxx/11338.cpp](11xxx/11338.cpp)                     |
 | 11395| [Равлики і порив вітру.](https://www.e-olymp.com/uk/problems/11395)                                    | [11xxx/11395.cpp](11xxx/11395.cpp)                     |
+| 11404| [Скрытый пароль](https://www.e-olymp.com/uk/problems/11404)                                            | [11xxx/11404.py](11xxx/11404.py)                       |
