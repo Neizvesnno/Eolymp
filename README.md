@@ -454,6 +454,7 @@ Compilers:
 | 9933 | [Годинник](https://www.e-olymp.com/uk/problems/9933)                                                   | [9xxx/9933.py](9xxx/9933.py)                           |
 | 9934 | [Годинник 2](https://www.e-olymp.com/uk/problems/9934)                                                 | [9xxx/9934.py](9xxx/9934.py)                           |
 | 9935 | [Годинник 3](https://www.e-olymp.com/uk/problems/9935)                                                 | [9xxx/9935.cpp](9xxx/9935.cpp)                         |
+| 9992 | [Тризначні числа 2](https://www.e-olymp.com/uk/problems/9992)                                          | [9xxx/9992.py](9xxx/9992.py)                           |
 |      | 10000-10999                                                                                            | [10xxx/](10xxx/)                                       |
 | 10029| [Corona2020](https://www.e-olymp.com/uk/problems/10029)                                                | [10xxx/10029.py](10xxx/10029.py)                       |
 | 10225| [Трикутник](https://www.e-olymp.com/uk/problems/10225)                                                 | [10xxx/10225.py](10xxx/10225.py)                       |
