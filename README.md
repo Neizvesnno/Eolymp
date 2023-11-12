@@ -197,6 +197,7 @@ Compilers:
 | 8544 | [Квадрати чисел](https://www.e-olymp.com/uk/problems/8544)                                             | [8xxx/8544.py](8xxx/8544.py)                           |
 | 8546 | [Знайдіть суму](https://www.e-olymp.com/uk/problems/8546)                                              | [8xxx/8546.py](8xxx/8546.py)                           |
 | 8569 | [Довжина рядка](https://www.e-olymp.com/uk/problems/8569)                                              | [8xxx/8569.py](8xxx/8569.py)                           |
+| 8571 | [Підрахувати букви](https://www.e-olymp.com/uk/problems/8571)                                          | [8xxx/8571.py](8xxx/8571.py)                           |
 | 8575 | [Супер-Пупер-Банкомат](https://www.e-olymp.com/uk/problems/8575)                                       | [8xxx/8575.py](8xxx/8575.py)                           |
 | 8592 | [Проста функція](https://www.e-olymp.com/uk/problems/8592)                                             | [8xxx/8592.cpp](8xxx/8592.cpp)                         |
 | 8610 | [Попередня і наступна буква](https://www.e-olymp.com/uk/problems/8610)                                 | [8xxx/8610.py](8xxx/8610.py)                           |
