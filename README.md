@@ -32,6 +32,7 @@ Compilers:
 | 0128 | [Щасливі квитки](https://www.e-olymp.com/uk/problems/128)                                              | [0xxx/0128.py](0xxx/0128.py)                           |
 | 0133 | [Квадрат і точки](https://www.e-olymp.com/uk/problems/133)                                             | [0xxx/0133.py](0xxx/0133.py)                           |
 | 0138 | [Банкомат](https://www.e-olymp.com/uk/problems/138)                                                    | [0xxx/0138.py](0xxx/0138.py)                           |
+| 0247 | [Нещасливий автобус](https://www.e-olymp.com/uk/problems/247)                                          | [0xxx/0247.py](0xxx/0247.py)                           |
 | 0248 | [Юний садівник](https://www.e-olymp.com/uk/problems/248)                                               | [0xxx/0248.py](0xxx/0248.py)                           |
 | 0266 | [Порівняння](https://www.e-olymp.com/uk/problems/266)                                                  | [0xxx/0266.cpp](0xxx/0266.cpp)                         |
 | 0280 | [Прибирання території](https://www.e-olymp.com/uk/problems/280)                                        | [0xxx/0280.cpp](0xxx/0280.cpp)                         |
