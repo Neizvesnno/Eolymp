@@ -77,6 +77,7 @@ Compilers:
 | 0931 | [Відношення добутку до суми](https://www.e-olymp.com/uk/problems/931)                                  | [0xxx/0931.py](0xxx/0931.py)                           |
 | 0933 | [Сума цифр двоцифрового числа](https://www.e-olymp.com/uk/problems/933)                                | [0xxx/0933.py](0xxx/0933.py)                           |
 | 0935 | [Розклад трицифрового числа](https://www.e-olymp.com/uk/problems/935)                                  | [0xxx/0935.py](0xxx/0935.py)                           |
+| 0937 | [Добуток масиву крім самого себе](https://www.e-olymp.com/uk/problems/937)                             | [0xxx/0937.cpp](0xxx/0937.cpp)                         |
 | 0940 | [Мажоруючий елемент](https://www.e-olymp.com/uk/problems/940)                                          | [0xxx/0940.py](0xxx/0940.py)                           |
 | 0941 | [Різниця](https://www.e-olymp.com/uk/problems/941)                                                     | [0xxx/0941.cpp](0xxx/0941.cpp)                         |
 | 0943 | [Перестановка цифр трицифрового](https://www.e-olymp.com/uk/problems/943)                              | [0xxx/0943.py](0xxx/0943.py)                           |
