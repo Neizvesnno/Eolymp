@@ -61,6 +61,7 @@ Compilers:
 | 0907 | [Перший не більший за 2,5](https://www.e-olymp.com/uk/problems/907)                                    | [0xxx/0907.py](0xxx/0907.py)                           |
 | 0908 | [Ті, що діляться на 6](https://www.e-olymp.com/uk/problems/908)                                        | [0xxx/0908.py](0xxx/0908.py)                           |
 | 0909 | [Кількість слів](https://www.e-olymp.com/uk/problems/909)                                              | [0xxx/0909.py](0xxx/0909.py)                           |
+| 0910 | [Середнє арифметичне додатних](https://www.e-olymp.com/uk/problems/910)                                | [0xxx/0910.py](0xxx/0910.py)                           |
 | 0912 | [Кількість речень](https://www.e-olymp.com/uk/problems/912)                                            | [0xxx/0912.py](0xxx/0912.py)                           |
 | 0915 | [Прямокутний чи ні?](https://www.e-olymp.com/uk/problems/915)                                          | [0xxx/0915.py](0xxx/0915.py)                           |
 | 0917 | [Подвоєний мінімальний](https://www.e-olymp.com/uk/problems/917)                                       | [0xxx/0917.py](0xxx/0917.py)                           |
