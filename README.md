@@ -192,6 +192,7 @@ Compilers:
 | 7831 | [Сума без максимального](https://www.e-olymp.com/uk/problems/7831)                                     | [7xxx/7831.py](7xxx/7831.py)                           |
 | 7832 | [Кількість максимальних](https://www.e-olymp.com/uk/problems/7832)                                     | [7xxx/7832.py](7xxx/7832.py)                           |
 | 7833 | [Більші за середнє арифметичне](https://www.e-olymp.com/uk/problems/7833)                              | [7xxx/7833.py](7xxx/7833.py)                           |
+| 7834 | [Два найбільших](https://www.e-olymp.com/uk/problems/7834)                                             | [7xxx/7834.py](7xxx/7834.py)                           |
 | 7843 | [Більші попереднього](https://www.e-olymp.com/uk/problems/7843)                                        | [7xxx/7843.py](7xxx/7843.py)                           |
 | 7844 | [Сусіди одного знака](https://www.e-olymp.com/uk/problems/7844)                                        | [7xxx/7844.py](7xxx/7844.py)                           |
 | 7845 | [Більші своїх сусідів](https://www.e-olymp.com/uk/problems/7845)                                       | [7xxx/7845.py](7xxx/7845.py)                           |
