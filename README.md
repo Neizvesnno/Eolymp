@@ -141,6 +141,7 @@ Compilers:
 | 4722 | [Квадрат числа](https://www.e-olymp.com/uk/problems/4722)                                              | [4xxx/4722.py](4xxx/4722.py)                           |
 | 4724 | [Робимо зрізи](https://www.e-olymp.com/uk/problems/4724)                                               | [4xxx/4724.py](4xxx/4724.py)                           |
 | 4727 | [Друге входження](https://www.e-olymp.com/uk/problems/4727)                                            | [4xxx/4727.py](4xxx/4727.py)                           |
+| 4728 | [Пошук паліндрома](https://www.e-olymp.com/uk/problems/4728)                                           | [4xxx/4728.py](4xxx/4728.py)                           |
 | 4734 | [Чи ділиться на 3, 6 і 9?](https://www.e-olymp.com/uk/problems/4734)                                   | [4xxx/4734.py](4xxx/4734.py)                           |
 | 4737 | [Видалення зайвих пропусків](https://www.e-olymp.com/uk/problems/4737)                                 | [4xxx/4737.cpp](4xxx/4737.cpp)                         |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
