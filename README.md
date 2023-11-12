@@ -215,6 +215,7 @@ Compilers:
 | 8254 | [Номера готелю](https://www.e-olymp.com/uk/problems/8254)                                              | [8xxx/8254.py](8xxx/8254.py)                           |
 | 8296 | [КОМП’ЮТЕРИ В ШКОЛИ](https://www.e-olymp.com/uk/problems/8296)                                         | [8xxx/8296.py](8xxx/8296.py)                           |
 | 8304 | [Весела функція](https://www.e-olymp.com/uk/problems/8304)                                             | [8xxx/8304.cpp](8xxx/8304.cpp)                         |
+| 8316 | [Сортировка букв](https://www.e-olymp.com/uk/problems/8316)                                            | [8xxx/8316.py](8xxx/8316.py)                           |
 | 8318 | [Удалите цифры](https://www.e-olymp.com/uk/problems/8318)                                              | [8xxx/8318.py](8xxx/8318.py)                           |
 | 8371 | [Парне чи непарне](https://www.e-olymp.com/uk/problems/8371)                                           | [8xxx/8371.py](8xxx/8371.py)                           |
 | 8382 | [Пароль](https://www.e-olymp.com/uk/problems/8382)                                                     | [8xxx/8382.py](8xxx/8382.py)                           |
