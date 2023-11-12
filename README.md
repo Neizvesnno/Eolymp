@@ -191,6 +191,7 @@ Compilers:
 | 7844 | [Сусіди одного знака](https://www.e-olymp.com/uk/problems/7844)                                        | [7xxx/7844.py](7xxx/7844.py)                           |
 | 7845 | [Більші своїх сусідів](https://www.e-olymp.com/uk/problems/7845)                                       | [7xxx/7845.py](7xxx/7845.py)                           |
 | 7846 | [Найбільший елемент](https://www.e-olymp.com/uk/problems/7846)                                         | [7xxx/7846.py](7xxx/7846.py)                           |
+| 7847 | [Кількість різних елементів](https://www.e-olymp.com/uk/problems/7847)                                 | [7xxx/7847.py](7xxx/7847.py)                           |
 | 7848 | [Переставити сусідні](https://www.e-olymp.com/uk/problems/7848)                                        | [7xxx/7848.py](7xxx/7848.py)                           |
 | 7943 | [Периметр прямокутника](https://www.e-olymp.com/uk/problems/7943)                                      | [7xxx/7943.cpp](7xxx/7943.cpp)                         |
 | 7944 | [Площа прямокутника](https://www.e-olymp.com/uk/problems/7944)                                         | [7xxx/7944.cpp](7xxx/7944.cpp)                         |
