@@ -104,6 +104,7 @@ Compilers:
 | 1611 | [Конвертування](https://www.e-olymp.com/uk/problems/1611)                                              | [1xxx/1611.py](1xxx/1611.py)                           |
 | 1623 | [Парні та непарні числа](https://www.e-olymp.com/uk/problems/1623)                                     | [1xxx/1623.py](1xxx/1623.py)                           |
 | 1658 | [Факториал](https://www.e-olymp.com/uk/problems/1658)                                                  | [1xxx/1658.py](1xxx/1658.py)                           |
+| 1916 | [Англійський](https://www.e-olymp.com/uk/problems/1916)                                                | [1xxx/1916.py](1xxx/1916.py)                           |
 |      | 2000-2999                                                                                              | [2xxx/](2xxx/)                                         |
 | 2043 | [Квартал](https://www.e-olymp.com/uk/problems/2043)                                                    | [2xxx/2043.py](2xxx/2043.py)                           |
 | 2044 | [Місяць](https://www.e-olymp.com/uk/problems/2044)                                                     | [2xxx/2044.py](2xxx/2044.py)                           |
