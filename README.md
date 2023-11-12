@@ -431,6 +431,7 @@ Compilers:
 | 9393 | [Видаліть непарні цифри](https://www.e-olymp.com/uk/problems/9393)                                     | [9xxx/9393.py](9xxx/9393.py)                           |
 | 9406 | [Професор і батарейки](https://www.e-olymp.com/uk/problems/9406)                                       | [9xxx/9406.cpp](9xxx/9406.cpp)                         |
 | 9539 | [Задача про Вову](https://www.e-olymp.com/uk/problems/9539)                                            | [9xxx/9539.py](9xxx/9539.py)                           |
+| 9542 | [Добуток цифр](https://www.e-olymp.com/uk/problems/9542)                                               | [9xxx/9542.py](9xxx/9542.py)                           |
 | 9634 | [Пройти в финал](https://www.e-olymp.com/uk/problems/9634)                                             | [9xxx/9634.py](9xxx/9634.py)                           |
 | 9912 | [Копія тексту](https://www.e-olymp.com/uk/problems/9912)                                               | [9xxx/9912.py](9xxx/9912.py)                           |
 | 9913 | [Google is beautiful!](https://www.e-olymp.com/uk/problems/9913)                                       | [9xxx/9913.py](9xxx/9913.py)                           |
