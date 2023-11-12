@@ -70,6 +70,7 @@ Compilers:
 | 0919 | [Номер на 3](https://www.e-olymp.com/uk/problems/919)                                                  | [0xxx/0919.py](0xxx/0919.py)                           |
 | 0923 | [Пора року](https://www.e-olymp.com/uk/problems/923)                                                   | [0xxx/0923.py](0xxx/0923.py)                           |
 | 0927 | [Кількість іграшок](https://www.e-olymp.com/uk/problems/927)                                           | [0xxx/0927.cpp](0xxx/0927.cpp)                         |
+| 0928 | [Сума найбільшого та найменшого](https://www.e-olymp.com/uk/problems/928)                              | [0xxx/0928.py](0xxx/0928.py)                           |
 | 0930 | [Номер мобільного телефону](https://www.e-olymp.com/uk/problems/930)                                   | [0xxx/0930.py](0xxx/0930.py)                           |
 | 0931 | [Відношення добутку до суми](https://www.e-olymp.com/uk/problems/931)                                  | [0xxx/0931.py](0xxx/0931.py)                           |
 | 0933 | [Сума цифр двоцифрового числа](https://www.e-olymp.com/uk/problems/933)                                | [0xxx/0933.py](0xxx/0933.py)                           |
