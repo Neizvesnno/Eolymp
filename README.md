@@ -69,6 +69,7 @@ Compilers:
 | 0918 | [Яка чверть?](https://www.e-olymp.com/uk/problems/918)                                                 | [0xxx/0918.py](0xxx/0918.py)                           |
 | 0919 | [Номер на 3](https://www.e-olymp.com/uk/problems/919)                                                  | [0xxx/0919.py](0xxx/0919.py)                           |
 | 0921 | [Від`ємні елементи](https://www.e-olymp.com/uk/problems/921)                                           | [0xxx/0921.py](0xxx/0921.py)                           |
+| 0922 | [Зсунь елементи праворуч](https://www.e-olymp.com/uk/problems/922)                                     | [0xxx/0922.py](0xxx/0922.py)                           |
 | 0923 | [Пора року](https://www.e-olymp.com/uk/problems/923)                                                   | [0xxx/0923.py](0xxx/0923.py)                           |
 | 0927 | [Кількість іграшок](https://www.e-olymp.com/uk/problems/927)                                           | [0xxx/0927.cpp](0xxx/0927.cpp)                         |
 | 0928 | [Сума найбільшого та найменшого](https://www.e-olymp.com/uk/problems/928)                              | [0xxx/0928.py](0xxx/0928.py)                           |
