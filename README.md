@@ -474,6 +474,7 @@ Compilers:
 |      | 11000-11999                                                                                            | [11xxx/](11xxx/)                                       |
 | 11065| [Индикатор](https://www.e-olymp.com/uk/problems/11065)                                                 | [11xxx/11065.py](11xxx/11065.py)                       |
 | 11333| [Квадрат](https://www.e-olymp.com/uk/problems/11333)                                                   | [11xxx/11333.py](11xxx/11333.py)                       |
+| 11334| [Рейтинг університетів](https://www.e-olymp.com/uk/problems/11334)                                     | [11xxx/11334.py](11xxx/11334.py)                       |
 | 11338| [Кузнечик и цепь](https://www.e-olymp.com/uk/problems/11338)                                           | [11xxx/11338.cpp](11xxx/11338.cpp)                     |
 | 11378| [Сок](https://www.e-olymp.com/uk/problems/11378)                                                       | [11xxx/11378.py](11xxx/11378.py)                       |
 | 11379| [Булочки](https://www.e-olymp.com/uk/problems/11379)                                                   | [11xxx/11379.py](11xxx/11379.py)                       |
