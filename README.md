@@ -127,6 +127,7 @@ Compilers:
 | 2218 | [Монетки](https://www.e-olymp.com/uk/problems/2218)                                                    | [2xxx/2218.py](2xxx/2218.py)                           |
 | 2370 | [Автоматизована Телефонна Станція](https://www.e-olymp.com/uk/problems/2370)                           | [2xxx/2370.py](2xxx/2370.py)                           |
 | 2391 | [Вартість розмови](https://www.e-olymp.com/uk/problems/2391)                                           | [2xxx/2391.py](2xxx/2391.py)                           |
+| 2606 | [Мінімум і максимум](https://www.e-olymp.com/uk/problems/2606)                                         | [2xxx/2606.py](2xxx/2606.py)                           |
 | 2607 | [Ознака подільності на 11](https://www.e-olymp.com/uk/problems/2607)                                   | [2xxx/2607.py](2xxx/2607.py)                           |
 | 2611 | [Замінити цифру](https://www.e-olymp.com/uk/problems/2611)                                             | [2xxx/2611.py](2xxx/2611.py)                           |
 | 2860 | [Сума чисел на проміжку](https://www.e-olymp.com/uk/problems/2860)                                     | [2xxx/2860.py](2xxx/2860.py)                           |
