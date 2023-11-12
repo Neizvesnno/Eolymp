@@ -190,6 +190,7 @@ Compilers:
 | 8242 | [Додатнє, від'ємне чи нуль](https://www.e-olymp.com/uk/problems/8242)                                  | [8xxx/8242.py](8xxx/8242.py)                           |
 | 8243 | [Перша цифра числа](https://www.e-olymp.com/uk/problems/8243)                                          | [8xxx/8243.py](8xxx/8243.py)                           |
 | 8254 | [Номера готелю](https://www.e-olymp.com/uk/problems/8254)                                              | [8xxx/8254.py](8xxx/8254.py)                           |
+| 8296 | [КОМП’ЮТЕРИ В ШКОЛИ](https://www.e-olymp.com/uk/problems/8296)                                         | [8xxx/8296.py](8xxx/8296.py)                           |
 | 8304 | [Весела функція](https://www.e-olymp.com/uk/problems/8304)                                             | [8xxx/8304.cpp](8xxx/8304.cpp)                         |
 | 8318 | [Удалите цифры](https://www.e-olymp.com/uk/problems/8318)                                              | [8xxx/8318.py](8xxx/8318.py)                           |
 | 8371 | [Парне чи непарне](https://www.e-olymp.com/uk/problems/8371)                                           | [8xxx/8371.py](8xxx/8371.py)                           |
