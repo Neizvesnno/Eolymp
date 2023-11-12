@@ -59,6 +59,7 @@ Compilers:
 | 0905 | [Який трикутник?](https://www.e-olymp.com/uk/problems/905)                                             | [0xxx/0905.py](0xxx/0905.py)                           |
 | 0906 | [Добуток цифр](https://www.e-olymp.com/uk/problems/906)                                                | [0xxx/0906.py](0xxx/0906.py)                           |
 | 0907 | [Перший не більший за 2,5](https://www.e-olymp.com/uk/problems/907)                                    | [0xxx/0907.py](0xxx/0907.py)                           |
+| 0908 | [Ті, що діляться на 6](https://www.e-olymp.com/uk/problems/908)                                        | [0xxx/0908.py](0xxx/0908.py)                           |
 | 0909 | [Кількість слів](https://www.e-olymp.com/uk/problems/909)                                              | [0xxx/0909.py](0xxx/0909.py)                           |
 | 0912 | [Кількість речень](https://www.e-olymp.com/uk/problems/912)                                            | [0xxx/0912.py](0xxx/0912.py)                           |
 | 0915 | [Прямокутний чи ні?](https://www.e-olymp.com/uk/problems/915)                                          | [0xxx/0915.py](0xxx/0915.py)                           |
