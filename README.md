@@ -119,6 +119,7 @@ Compilers:
 | 2043 | [Квартал](https://www.e-olymp.com/uk/problems/2043)                                                    | [2xxx/2043.py](2xxx/2043.py)                           |
 | 2044 | [Місяць](https://www.e-olymp.com/uk/problems/2044)                                                     | [2xxx/2044.py](2xxx/2044.py)                           |
 | 2098 | [Перевертач](https://www.e-olymp.com/uk/problems/2098)                                                 | [2xxx/2098.py](2xxx/2098.py)                           |
+| 2099 | [Два масиви](https://www.e-olymp.com/uk/problems/2099)                                                 | [2xxx/2099.py](2xxx/2099.py)                           |
 | 2162 | [Паліндром](https://www.e-olymp.com/uk/problems/2162)                                                  | [2xxx/2162.py](2xxx/2162.py)                           |
 | 2164 | [Шифр Юлія](https://www.e-olymp.com/uk/problems/2164)                                                  | [2xxx/2164.cpp](2xxx/2164.cpp)                         |
 | 2166 | [Анаграми](https://www.e-olymp.com/uk/problems/2166)                                                   | [2xxx/2166.py](2xxx/2166.py)                           |
