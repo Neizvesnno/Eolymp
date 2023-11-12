@@ -156,6 +156,7 @@ Compilers:
 | 4728 | [Пошук паліндрома](https://www.e-olymp.com/uk/problems/4728)                                           | [4xxx/4728.py](4xxx/4728.py)                           |
 | 4734 | [Чи ділиться на 3, 6 і 9?](https://www.e-olymp.com/uk/problems/4734)                                   | [4xxx/4734.py](4xxx/4734.py)                           |
 | 4737 | [Видалення зайвих пропусків](https://www.e-olymp.com/uk/problems/4737)                                 | [4xxx/4737.cpp](4xxx/4737.cpp)                         |
+| 4765 | [Видалення повторень з відсортованого масиву](https://www.e-olymp.com/uk/problems/4765)                | [4xxx/4765.py](4xxx/4765.py)                           |
 |      | 5000-5999                                                                                              | [5xxx/](5xxx/)                                         |
 | 5049 | [Видали пропуски](https://www.e-olymp.com/uk/problems/5049)                                            | [5xxx/5049.py](5xxx/5049.py)                           |
 | 5175 | [Остання цифра](https://www.e-olymp.com/uk/problems/5175)                                              | [5xxx/5175.cpp](5xxx/5175.cpp)                         |
