@@ -188,6 +188,7 @@ Compilers:
 | 7784 | [Золоті злитки](https://www.e-olymp.com/uk/problems/7784)                                              | [7xxx/7784.py](7xxx/7784.py)                           |
 | 7812 | [Більше серед чотирьох](https://www.e-olymp.com/uk/problems/7812)                                      | [7xxx/7812.py](7xxx/7812.py)                           |
 | 7814 | [Двоцифрове число з трицифрового](https://www.e-olymp.com/uk/problems/7814)                            | [7xxx/7814.py](7xxx/7814.py)                           |
+| 7822 | [ВІДСУТНІЙ НОМЕР](https://www.e-olymp.com/uk/problems/7822)                                            | [7xxx/7822.py](7xxx/7822.py)                           |
 | 7829 | [Сума елементів](https://www.e-olymp.com/uk/problems/7829)                                             | [7xxx/7829.py](7xxx/7829.py)                           |
 | 7830 | [Найбільший елемент масиву](https://www.e-olymp.com/uk/problems/7830)                                  | [7xxx/7830.py](7xxx/7830.py)                           |
 | 7831 | [Сума без максимального](https://www.e-olymp.com/uk/problems/7831)                                     | [7xxx/7831.py](7xxx/7831.py)                           |
