@@ -187,8 +187,9 @@ Compilers:
 | 7812 | [Більше серед чотирьох](https://www.e-olymp.com/uk/problems/7812)                                      | [7xxx/7812.py](7xxx/7812.py)                           |
 | 7814 | [Двоцифрове число з трицифрового](https://www.e-olymp.com/uk/problems/7814)                            | [7xxx/7814.py](7xxx/7814.py)                           |
 | 7829 | [Сума елементів](https://www.e-olymp.com/uk/problems/7829)                                             | [7xxx/7829.py](7xxx/7829.py)                           |
-| 7845 | [Більші своїх сусідів](https://www.e-olymp.com/uk/problems/7845)                                       | [7xxx/7845.py](7xxx/7845.py)                           |
 | 7843 | [Більші попереднього](https://www.e-olymp.com/uk/problems/7843)                                        | [7xxx/7843.py](7xxx/7843.py)                           |
+| 7844 | [Сусіди одного знака](https://www.e-olymp.com/uk/problems/7844)                                        | [7xxx/7844.py](7xxx/7844.py)                           |
+| 7845 | [Більші своїх сусідів](https://www.e-olymp.com/uk/problems/7845)                                       | [7xxx/7845.py](7xxx/7845.py)                           |
 | 7943 | [Периметр прямокутника](https://www.e-olymp.com/uk/problems/7943)                                      | [7xxx/7943.cpp](7xxx/7943.cpp)                         |
 | 7944 | [Площа прямокутника](https://www.e-olymp.com/uk/problems/7944)                                         | [7xxx/7944.cpp](7xxx/7944.cpp)                         |
 |      | 8000-8999                                                                                              | [8xxx/](8xxx/)                                         |
