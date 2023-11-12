@@ -188,6 +188,7 @@ Compilers:
 | 7814 | [Двоцифрове число з трицифрового](https://www.e-olymp.com/uk/problems/7814)                            | [7xxx/7814.py](7xxx/7814.py)                           |
 | 7829 | [Сума елементів](https://www.e-olymp.com/uk/problems/7829)                                             | [7xxx/7829.py](7xxx/7829.py)                           |
 | 7830 | [Найбільший елемент масиву](https://www.e-olymp.com/uk/problems/7830)                                  | [7xxx/7830.py](7xxx/7830.py)                           |
+| 7831 | [Сума без максимального](https://www.e-olymp.com/uk/problems/7831)                                     | [7xxx/7831.py](7xxx/7831.py)                           |
 | 7843 | [Більші попереднього](https://www.e-olymp.com/uk/problems/7843)                                        | [7xxx/7843.py](7xxx/7843.py)                           |
 | 7844 | [Сусіди одного знака](https://www.e-olymp.com/uk/problems/7844)                                        | [7xxx/7844.py](7xxx/7844.py)                           |
 | 7845 | [Більші своїх сусідів](https://www.e-olymp.com/uk/problems/7845)                                       | [7xxx/7845.py](7xxx/7845.py)                           |
