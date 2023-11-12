@@ -489,6 +489,7 @@ Compilers:
 | 9992 | [Тризначні числа 2](https://www.e-olymp.com/uk/problems/9992)                                          | [9xxx/9992.py](9xxx/9992.py)                           |
 |      | 10000-10999                                                                                            | [10xxx/](10xxx/)                                       |
 | 10029| [Corona2020](https://www.e-olymp.com/uk/problems/10029)                                                | [10xxx/10029.py](10xxx/10029.py)                       |
+| 10215| [Пронумеруй цифри](https://www.e-olymp.com/uk/problems/10215)                                          | [10xxx/10215.py](10xxx/10215.py)                       |
 | 10225| [Трикутник](https://www.e-olymp.com/uk/problems/10225)                                                 | [10xxx/10225.py](10xxx/10225.py)                       |
 | 10229| [Електронний годинник](https://www.e-olymp.com/uk/problems/10229)                                      | [10xxx/10229.py](10xxx/10229.py)                       |
 | 10255| [E. Козак Вус та матриця](https://www.e-olymp.com/uk/problems/10255)                                   | [10xxx/10255.py](10xxx/10255.py)                       |
