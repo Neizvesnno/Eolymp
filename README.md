@@ -1,9 +1,6 @@
-# Eolymp [⬀](http://www.eolymp.com/en/problems)
+# Eolymp solutions
 
-Compilers:
-
-- Judge Python
-- Judge C++
+[N] solved problems from [e-olymp.com](https://eolymp.com) — the Ukrainian online judge I used to prepare for programming olympiads. Solutions in Python and C++, from basics (arithmetic, strings, arrays) to number theory and combinatorics.
 
 | ID   | Problem statement                                                                                      | Solution                                               |
 |------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
